@@ -1,0 +1,1041 @@
+{
+  "data": [
+    {
+      "type": "choropleth",
+      "zsrc": "hartatsr4:100:5f28e7",
+      "z": [
+        9,
+        1.3,
+        562.3,
+        221.4,
+        2399.6,
+        410,
+        307.5,
+        1.1,
+        102.6,
+        1640,
+        16,
+        15,
+        121.9,
+        809.8,
+        519.5,
+        199.7,
+        39.8,
+        494.8,
+        346.9,
+        23.1,
+        514,
+        603,
+        819.5,
+        395,
+        5,
+        11.6,
+        1.9,
+        2.6,
+        95,
+        118.3,
+        16,
+        0,
+        1612,
+        769,
+        1,
+        832.7,
+        372.7,
+        328.9,
+        1025.7,
+        2.6,
+        9,
+        51.2,
+        650.2,
+        1476.4,
+        315.3,
+        61.5,
+        540.7,
+        13.5,
+        83,
+        475.4,
+        1
+      ],
+      "marker": {
+        "line": {
+          "color": "white"
+        }
+      },
+      "textsrc": "hartatsr4:100:b487bd",
+      "text": [
+        "Alabama<br>Total Settlement Fund Allocation: $ 9.0 million<br>Allocation per Capita (ages 12+): $ 2.15<br>Estimated OUD population (ages 12+): 127,700<br>Allocation per OUD Person: $ 70.48<br>State Drug Death Rate (per 100,000 persons): 16.3",
+        "Alaska<br>Total Settlement Fund Allocation: $ 1.3 million<br>Allocation per Capita (ages 12+): $ 2.14<br>Estimated OUD population (ages 12+): 22,650<br>Allocation per OUD Person: $ 57.39<br>State Drug Death Rate (per 100,000 persons): 17.8",
+        "Arizona<br>Total Settlement Fund Allocation: $ 562.3 million<br>Allocation per Capita (ages 12+): $ 90.6<br>Estimated OUD population (ages 12+): 196,111<br>Allocation per OUD Person: $ 2,867.25<br>State Drug Death Rate (per 100,000 persons): 26.8",
+        "Arkansas<br>Total Settlement Fund Allocation: $ 221.4 million<br>Allocation per Capita (ages 12+): $ 86.58<br>Estimated OUD population (ages 12+): 67,000<br>Allocation per OUD Person: $ 3,304.48<br>State Drug Death Rate (per 100,000 persons): 13.5",
+        "California<br>Total Settlement Fund Allocation: $ 2.4 billion<br>Allocation per Capita (ages 12+): $ 71.32<br>Estimated OUD population (ages 12+): 1,221,359<br>Allocation per OUD Person: $ 1,964.70<br>State Drug Death Rate (per 100,000 persons): 15.0",
+        "Colorado<br>Total Settlement Fund Allocation: $ 410.0 million<br>Allocation per Capita (ages 12+): $ 83.06<br>Estimated OUD population (ages 12+): 246,803<br>Allocation per OUD Person: $ 1,661.24<br>State Drug Death Rate (per 100,000 persons): 18.0",
+        "Connecticut<br>Total Settlement Fund Allocation: $ 307.5 million<br>Allocation per Capita (ages 12+): $ 99.0<br>Estimated OUD population (ages 12+): 84,482<br>Allocation per OUD Person: $ 3,639.84<br>State Drug Death Rate (per 100,000 persons): 34.7",
+        "District of Columbia<br>Total Settlement Fund Allocation: $ 1.1 million<br>Allocation per Capita (ages 12+): $ 1.77<br>Estimated OUD population (ages 12+): 30,427<br>Allocation per OUD Person: $ 35.50<br>State Drug Death Rate (per 100,000 persons): nan",
+        "Delaware<br>Total Settlement Fund Allocation: $ 102.6 million<br>Allocation per Capita (ages 12+): $ 122.17<br>Estimated OUD population (ages 12+): 28,134<br>Allocation per OUD Person: $ 3,646.89<br>State Drug Death Rate (per 100,000 persons): 48.0",
+        "Florida<br>Total Settlement Fund Allocation: $ 1.64 billion<br>Allocation per Capita (ages 12+): $ 87.72<br>Estimated OUD population (ages 12+): 469,270<br>Allocation per OUD Person: $ 3,494.79<br>State Drug Death Rate (per 100,000 persons): 25.5",
+        "Georgia<br>Total Settlement Fund Allocation: $ 16.0 million<br>Allocation per Capita (ages 12+): $ 1.78<br>Estimated OUD population (ages 12+): 224,703<br>Allocation per OUD Person: $ 71.21<br>State Drug Death Rate (per 100,000 persons): 13.1",
+        "Hawaii<br>Total Settlement Fund Allocation: $ 15.0 million<br>Allocation per Capita (ages 12+): $ 12.39<br>Estimated OUD population (ages 12+): 37,665<br>Allocation per OUD Person: $ 398.24<br>State Drug Death Rate (per 100,000 persons): 15.9",
+        "Idaho<br>Total Settlement Fund Allocation: $ 121.9 million<br>Allocation per Capita (ages 12+): $ 81.52<br>Estimated OUD population (ages 12+): 39,927<br>Allocation per OUD Person: $ 3,053.04<br>State Drug Death Rate (per 100,000 persons): 15.1",
+        "Illinois<br>Total Settlement Fund Allocation: $ 809.8 million<br>Allocation per Capita (ages 12+): $ 74.72<br>Estimated OUD population (ages 12+): 330,553<br>Allocation per OUD Person: $ 2,449.83<br>State Drug Death Rate (per 100,000 persons): 21.9",
+        "Indiana<br>Total Settlement Fund Allocation: $ 519.5 million<br>Allocation per Capita (ages 12+): $ 91.06<br>Estimated OUD population (ages 12+): 199,106<br>Allocation per OUD Person: $ 2,609.16<br>State Drug Death Rate (per 100,000 persons): 26.6",
+        "Iowa<br>Total Settlement Fund Allocation: $ 199.7 million<br>Allocation per Capita (ages 12+): $ 74.62<br>Estimated OUD population (ages 12+): 77,077<br>Allocation per OUD Person: $ 2,590.92<br>State Drug Death Rate (per 100,000 persons): 11.5",
+        "Kansas<br>Total Settlement Fund Allocation: $ 39.8 million<br>Allocation per Capita (ages 12+): $ 16.23<br>Estimated OUD population (ages 12+): 62,763<br>Allocation per OUD Person: $ 634.13<br>State Drug Death Rate (per 100,000 persons): 14.3",
+        "Kentucky<br>Total Settlement Fund Allocation: $ 494.8 million<br>Allocation per Capita (ages 12+): $ 130.0<br>Estimated OUD population (ages 12+): 119,894<br>Allocation per OUD Person: $ 4,126.97<br>State Drug Death Rate (per 100,000 persons): 32.5",
+        "Louisiana<br>Total Settlement Fund Allocation: $ 346.9 million<br>Allocation per Capita (ages 12+): $ 88.42<br>Estimated OUD population (ages 12+): 111,422<br>Allocation per OUD Person: $ 3,113.38<br>State Drug Death Rate (per 100,000 persons): 28.3",
+        "Maine<br>Total Settlement Fund Allocation: $ 23.1 million<br>Allocation per Capita (ages 12+): $ 19.49<br>Estimated OUD population (ages 12+): 42,895<br>Allocation per OUD Person: $ 538.53<br>State Drug Death Rate (per 100,000 persons): 29.9",
+        "Maryland<br>Total Settlement Fund Allocation: $ 514.0 million<br>Allocation per Capita (ages 12+): $ 99.56<br>Estimated OUD population (ages 12+): 140,431<br>Allocation per OUD Person: $ 3,660.17<br>State Drug Death Rate (per 100,000 persons): 38.2",
+        "Massachusetts<br>Total Settlement Fund Allocation: $ 603.0 million<br>Allocation per Capita (ages 12+): $ 100.22<br>Estimated OUD population (ages 12+): 202,764<br>Allocation per OUD Person: $ 2,973.90<br>State Drug Death Rate (per 100,000 persons): 32.1",
+        "Michigan<br>Total Settlement Fund Allocation: $ 819.5 million<br>Allocation per Capita (ages 12+): $ 95.35<br>Estimated OUD population (ages 12+): 237,222<br>Allocation per OUD Person: $ 3,454.57<br>State Drug Death Rate (per 100,000 persons): 24.4",
+        "Minnesota<br>Total Settlement Fund Allocation: $ 395.0 million<br>Allocation per Capita (ages 12+): $ 82.67<br>Estimated OUD population (ages 12+): 132,831<br>Allocation per OUD Person: $ 2,973.71<br>State Drug Death Rate (per 100,000 persons): 14.2",
+        "Mississippi<br>Total Settlement Fund Allocation: $ 5.0 million<br>Allocation per Capita (ages 12+): $ 1.98<br>Estimated OUD population (ages 12+): 66,818<br>Allocation per OUD Person: $ 74.83<br>State Drug Death Rate (per 100,000 persons): 13.6",
+        "Missouri<br>Total Settlement Fund Allocation: $ 11.6 million<br>Allocation per Capita (ages 12+): $ 2.22<br>Estimated OUD population (ages 12+): 149,218<br>Allocation per OUD Person: $ 77.74<br>State Drug Death Rate (per 100,000 persons): 26.9",
+        "Montana<br>Total Settlement Fund Allocation: $ 1.9 million<br>Allocation per Capita (ages 12+): $ 2.07<br>Estimated OUD population (ages 12+): 31,749<br>Allocation per OUD Person: $ 59.84<br>State Drug Death Rate (per 100,000 persons): 14.1",
+        "Nebraska<br>Total Settlement Fund Allocation: $ 2.6 million<br>Allocation per Capita (ages 12+): $ 1.61<br>Estimated OUD population (ages 12+): 41,244<br>Allocation per OUD Person: $ 63.04<br>State Drug Death Rate (per 100,000 persons): 8.7",
+        "Nevada<br>Total Settlement Fund Allocation: $ 95.0 million<br>Allocation per Capita (ages 12+): $ 36.23<br>Estimated OUD population (ages 12+): 114,573<br>Allocation per OUD Person: $ 829.17<br>State Drug Death Rate (per 100,000 persons): 20.1",
+        "New Hampshire<br>Total Settlement Fund Allocation: $ 118.3 million<br>Allocation per Capita (ages 12+): $ 98.7<br>Estimated OUD population (ages 12+): 34,878<br>Allocation per OUD Person: $ 3,391.79<br>State Drug Death Rate (per 100,000 persons): 32.0",
+        "New Jersey<br>Total Settlement Fund Allocation: $ 16.0 million<br>Allocation per Capita (ages 12+): $ 2.1<br>Estimated OUD population (ages 12+): 202,649<br>Allocation per OUD Person: $ 78.95<br>State Drug Death Rate (per 100,000 persons): 31.7",
+        "New Mexico<br>Total Settlement Fund Allocation: Opted out<br>Allocation per Capita (ages 12+): $ 0.0<br>Estimated OUD population (ages 12+): 52,729<br>Allocation per OUD Person: $ 0.00<br>State Drug Death Rate (per 100,000 persons): 30.2",
+        "New York<br>Total Settlement Fund Allocation: $ 1.61 billion<br>Allocation per Capita (ages 12+): $ 96.11<br>Estimated OUD population (ages 12+): 504,874<br>Allocation per OUD Person: $ 3,192.88<br>State Drug Death Rate (per 100,000 persons): 18.2",
+        "North Carolina<br>Total Settlement Fund Allocation: $ 769.0 million<br>Allocation per Capita (ages 12+): $ 85.58<br>Estimated OUD population (ages 12+): 257,884<br>Allocation per OUD Person: $ 2,981.96<br>State Drug Death Rate (per 100,000 persons): 22.3",
+        "North Dakota<br>Total Settlement Fund Allocation: $ 1.0 million<br>Allocation per Capita (ages 12+): $ 1.57<br>Estimated OUD population (ages 12+): 19,117<br>Allocation per OUD Person: $ 52.31<br>State Drug Death Rate (per 100,000 persons): 11.4",
+        "Ohio<br>Total Settlement Fund Allocation: $ 832.7 million<br>Allocation per Capita (ages 12+): $ 83.26<br>Estimated OUD population (ages 12+): 345,024<br>Allocation per OUD Person: $ 2,413.45<br>State Drug Death Rate (per 100,000 persons): 38.3",
+        "Oklahoma<br>Total Settlement Fund Allocation: $ 372.65 million<br>Allocation per Capita (ages 12+): $ 112.07<br>Estimated OUD population (ages 12+): 94,436<br>Allocation per OUD Person: $ 3,946.04<br>State Drug Death Rate (per 100,000 persons): 16.7",
+        "Oregon<br>Total Settlement Fund Allocation: $ 328.9 million<br>Allocation per Capita (ages 12+): $ 90.16<br>Estimated OUD population (ages 12+): 131,320<br>Allocation per OUD Person: $ 2,504.58<br>State Drug Death Rate (per 100,000 persons): 14.0",
+        "Pennsylvania<br>Total Settlement Fund Allocation: $ 1.03 billion<br>Allocation per Capita (ages 12+): $ 92.56<br>Estimated OUD population (ages 12+): 323,581<br>Allocation per OUD Person: $ 3,169.84<br>State Drug Death Rate (per 100,000 persons): 35.6",
+        "Rhode Island<br>Total Settlement Fund Allocation: $ 2.6 million<br>Allocation per Capita (ages 12+): $ 2.8<br>Estimated OUD population (ages 12+): 28,196<br>Allocation per OUD Person: $ 92.21<br>State Drug Death Rate (per 100,000 persons): 29.5",
+        "South Carolina<br>Total Settlement Fund Allocation: $ 9.0 million<br>Allocation per Capita (ages 12+): $ 2.04<br>Estimated OUD population (ages 12+): 103,869<br>Allocation per OUD Person: $ 86.65<br>State Drug Death Rate (per 100,000 persons): 22.7",
+        "South Dakota<br>Total Settlement Fund Allocation: $ 51.2 million<br>Allocation per Capita (ages 12+): $ 69.37<br>Estimated OUD population (ages 12+): 17,567<br>Allocation per OUD Person: $ 2,914.78<br>State Drug Death Rate (per 100,000 persons): 10.5",
+        "Tennessee<br>Total Settlement Fund Allocation: $ 650.2 million<br>Allocation per Capita (ages 12+): $ 111.42<br>Estimated OUD population (ages 12+): 163,979<br>Allocation per OUD Person: $ 3,965.13<br>State Drug Death Rate (per 100,000 persons): 31.2",
+        "Texas<br>Total Settlement Fund Allocation: $ 1.48 billion<br>Allocation per Capita (ages 12+): $ 61.26<br>Estimated OUD population (ages 12+): 532,635<br>Allocation per OUD Person: $ 2,771.88<br>State Drug Death Rate (per 100,000 persons): 10.8",
+        "Utah<br>Total Settlement Fund Allocation: $ 315.3 million<br>Allocation per Capita (ages 12+): $ 121.63<br>Estimated OUD population (ages 12+): 74,916<br>Allocation per OUD Person: $ 4,208.70<br>State Drug Death Rate (per 100,000 persons): 18.9",
+        "Vermont<br>Total Settlement Fund Allocation: $ 61.5 million<br>Allocation per Capita (ages 12+): $ 111.63<br>Estimated OUD population (ages 12+): 22,038<br>Allocation per OUD Person: $ 2,790.63<br>State Drug Death Rate (per 100,000 persons): 23.8",
+        "Virginia<br>Total Settlement Fund Allocation: $ 540.7 million<br>Allocation per Capita (ages 12+): $ 74.0<br>Estimated OUD population (ages 12+): 217,748<br>Allocation per OUD Person: $ 2,483.15<br>State Drug Death Rate (per 100,000 persons): 18.3",
+        "Washington<br>Total Settlement Fund Allocation: $ 13.5 million<br>Allocation per Capita (ages 12+): $ 2.08<br>Estimated OUD population (ages 12+): 204,129<br>Allocation per OUD Person: $ 66.13<br>State Drug Death Rate (per 100,000 persons): 15.8",
+        "West Virginia<br>Total Settlement Fund Allocation: $ 83.0 million<br>Allocation per Capita (ages 12+): $ 53.28<br>Estimated OUD population (ages 12+): 42,841<br>Allocation per OUD Person: $ 1,937.42<br>State Drug Death Rate (per 100,000 persons): 52.8",
+        "Wisconsin<br>Total Settlement Fund Allocation: $ 475.4 million<br>Allocation per Capita (ages 12+): $ 95.08<br>Estimated OUD population (ages 12+): 128,495<br>Allocation per OUD Person: $ 3,699.76<br>State Drug Death Rate (per 100,000 persons): 21.1",
+        "Wyoming<br>Total Settlement Fund Allocation: $ 1.0 million<br>Allocation per Capita (ages 12+): $ 2.04<br>Estimated OUD population (ages 12+): 11,139<br>Allocation per OUD Person: $ 89.77<br>State Drug Death Rate (per 100,000 persons): 14.1"
+      ],
+      "colorbar": {
+        "title": {
+          "text": "Millions USD"
+        }
+      },
+      "colorscale": [
+        [
+          0,
+          "rgb(209, 238, 234)"
+        ],
+        [
+          0.16666666666666666,
+          "rgb(168, 219, 217)"
+        ],
+        [
+          0.3333333333333333,
+          "rgb(133, 196, 201)"
+        ],
+        [
+          0.5,
+          "rgb(104, 171, 184)"
+        ],
+        [
+          0.6666666666666666,
+          "rgb(79, 144, 166)"
+        ],
+        [
+          0.8333333333333334,
+          "rgb(59, 115, 143)"
+        ],
+        [
+          1,
+          "rgb(42, 86, 116)"
+        ]
+      ],
+      "locationmode": "USA-states",
+      "locationssrc": "hartatsr4:100:777495",
+      "locations": [
+        "AL",
+        "AK",
+        "AZ",
+        "AR",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "ID",
+        "IL",
+        "IN",
+        "IA",
+        "KS",
+        "KY",
+        "LA",
+        "ME",
+        "MD",
+        "MA",
+        "MI",
+        "MN",
+        "MS",
+        "MO",
+        "MT",
+        "NE",
+        "NV",
+        "NH",
+        "NJ",
+        "NM",
+        "NY",
+        "NC",
+        "ND",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VT",
+        "VA",
+        "WA",
+        "WV",
+        "WI",
+        "WY"
+      ],
+      "autocolorscale": false
+    }
+  ],
+  "layout": {
+    "geo": {
+      "scope": "usa",
+      "lakecolor": "rgb(255, 255, 255)",
+      "showlakes": true,
+      "projection": {
+        "type": "albers usa"
+      }
+    },
+    "width": 1200,
+    "autosize": true,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            },
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            }
+          }
+        ],
+        "pie": [
+          {
+            "type": "pie",
+            "automargin": true
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "white",
+              "linecolor": "white",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "white",
+              "linecolor": "white",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "barpolar": [
+          {
+            "type": "barpolar",
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "#E5ECF6",
+          "showlakes": true,
+          "subunitcolor": "white"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "#E5ECF6",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "gridcolor": "white",
+          "linecolor": "white",
+          "automargin": true,
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "gridcolor": "white",
+          "linecolor": "white",
+          "automargin": true,
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "mapbox": {
+          "style": "light"
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "bgcolor": "#E5ECF6"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "coloraxis": {
+          "colorbar": {
+            "ticks": "",
+            "outlinewidth": 0
+          }
+        },
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1,
+              "#f0f921"
+            ]
+          ]
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "plot_bgcolor": "#E5ECF6",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "autotypenumbers": "strict",
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#2a3f5f",
+          "arrowwidth": 1
+        }
+      }
+    }
+  },
+  "frames": []
+}
