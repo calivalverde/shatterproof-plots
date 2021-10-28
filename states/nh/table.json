@@ -89,6 +89,8 @@
     }
   ],
   "layout": {
+    "width": 1600,
+    "height": 1000,
     "autosize": false,
     "template": {
       "data": {
