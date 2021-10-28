@@ -1,96 +1,211 @@
 {
   "data": [
     {
-      "type": "table",
-      "cells": {
-        "fill": {
-          "colorsrc": "hartatsr4:116:ce9cbb",
-          "color": [
-            "whitesmoke",
-            "white"
-          ]
-        },
-        "font": {
-          "size": 12
-        },
-        "line": {
-          "color": "lightgray"
-        },
-        "height": 30,
-        "alignsrc": "hartatsr4:116:941078",
-        "align": [
-          "left",
-          "left"
-        ],
-        "valuessrc": "hartatsr4:116:b86a5a",
-        "values": [
-          [
-            "<b>Establish a dedicated fund",
-            "<b>Supplement rather than supplant existing funding.</b>",
-            "<b>Don’t spend all the money at once.</b>",
-            "<b>Report to the public on where the money is going.</b>"
-          ],
-          [
-            "Ensuring that funds from the opioid lawsuits are being used to help people with substance use disorders is easier if dollars resulting from the various legal actions go into a dedicated fund. When establishing such a fund, jurisdictions should include specific language that the money from the fund cannot be used to replace existing state investments and outline the acceptable uses of the dollars when establishing this fund.",
-            "In order to be sure that funds are being used to expand programs, jurisdictions should understand their baseline level of spending on substance use disorders, including prevention efforts. This will help ensure that dollars from any legal actions are additive to existing efforts. Most jurisdictions have already developed comprehensive strategic plans focused on opioids; these plans can be used as a starting point for prioritizing new investments.",
-            "Ameliorating the toll of substance use, and addressing the underlying root causes, will require sustained funding by states and localities. Jurisdictions should avoid the temptation to exchange future payments that result from the opioid litigation for an upfront lump sum payment, as happened in many states with dollars from the tobacco settlements. Should the opioid lawsuits result in a lump sum payment to jurisdictions, they should consider establishing an endowment so that the dollars can be used over time.",
-            "Jurisdictions should publicly report on how funds from opioid litigation are being spent. The expenditures should be categorized such that it is easy to understand the goals of a particular program and the measures that they are using to determine success, such as, for naloxone distribution programs, the amount of naloxone distributed."
-          ],
-          [
-            "House Bill 1639 Establishes an opioid abatement trust fund.  The department of health and human services, in consultation with the New Hampshire opioid abatement advisory commission, shall use the fund to support programs associated with the prevention, treatment, and recovery of substance use disorders.",
-            "Data not yet available on funds spending.",
-            "Data not yet available on funds planning.",
-            "<a href=https://www.dhhs.nh.gov/dcbcs/bdas/opioid-abatement-trust-fund.htm>Opioid Abatement Trust Fund Advisory Commission</a>"
-          ]
-        ]
+      "line": {
+        "color": "rgb(96,197,183)",
+        "width": 4
       },
-      "header": {
-        "fill": {
-          "color": "#60C5B7"
-        },
-        "font": {
-          "size": 12,
-          "color": "white"
-        },
-        "line": {
-          "color": "lightgray"
-        },
-        "height": 40,
-        "alignsrc": "hartatsr4:116:ebe1ee",
-        "align": [
-          "left",
-          "left"
-        ],
-        "valuessrc": "hartatsr4:116:60d665",
-        "values": [
-          [
-            "<b>PRINCIPLE 1 INDICATORS</b>"
-          ],
-          [
-            "<b>HOW STATES CAN TAKE ACTION"
-          ],
-          [
-            "<b>NEW HAMPSHIRE TRACKER</b>"
-          ]
-        ]
-      },
-      "columnordersrc": "hartatsr4:116:767e1f",
-      "columnorder": [
-        1,
-        2,
-        3
+      "mode": "lines+markers",
+      "name": "Drug Death Rate (NH)",
+      "type": "scatter",
+      "xsrc": "hartatsr4:126:8f59bf",
+      "x": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
       ],
-      "columnwidthsrc": "hartatsr4:116:a83ac3",
-      "columnwidth": [
-        40,
-        100,
-        80
-      ]
+      "ysrc": "hartatsr4:126:653a7c",
+      "y": [
+        39,
+        37,
+        35.8,
+        32,
+        32
+      ],
+      "connectgaps": true
+    },
+    {
+      "mode": "markers",
+      "type": "scatter",
+      "xsrc": "hartatsr4:126:63a457",
+      "x": [
+        2016,
+        2016
+      ],
+      "ysrc": "hartatsr4:126:ba974f",
+      "y": [
+        39,
+        39
+      ],
+      "marker": {
+        "size": 12,
+        "color": "rgb(96,197,183)"
+      }
+    },
+    {
+      "line": {
+        "color": "rgb(185,76,38)",
+        "width": 2
+      },
+      "mode": "lines+markers",
+      "name": "Drug Death Rate (U.S.)",
+      "type": "scatter",
+      "xsrc": "hartatsr4:126:6ed731",
+      "x": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "ysrc": "hartatsr4:126:bd72cb",
+      "y": [
+        19.8,
+        21.7,
+        20.7,
+        21.6,
+        21.6
+      ],
+      "connectgaps": true
+    },
+    {
+      "mode": "markers",
+      "type": "scatter",
+      "xsrc": "hartatsr4:126:10be91",
+      "x": [
+        2016,
+        2016
+      ],
+      "ysrc": "hartatsr4:126:7c214e",
+      "y": [
+        19.8,
+        19.8
+      ],
+      "marker": {
+        "size": 12,
+        "color": "rgb(185,76,38)"
+      }
+    },
+    {
+      "line": {
+        "color": "rgb(88,126,201)",
+        "width": 4
+      },
+      "mode": "lines+markers",
+      "name": "Dispensing Rate (NH)",
+      "type": "scatter",
+      "xsrc": "hartatsr4:126:3ec085",
+      "x": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "ysrc": "hartatsr4:126:5982b2",
+      "y": [
+        64.3,
+        52.5,
+        46.1,
+        38.1,
+        35.2
+      ],
+      "connectgaps": true
+    },
+    {
+      "mode": "markers",
+      "type": "scatter",
+      "xsrc": "hartatsr4:126:c952bd",
+      "x": [
+        2016,
+        2016
+      ],
+      "ysrc": "hartatsr4:126:763e63",
+      "y": [
+        64.3,
+        64.3
+      ],
+      "marker": {
+        "size": 12,
+        "color": "rgb(88,126,201)"
+      }
+    },
+    {
+      "line": {
+        "color": "rgb(185,76,38)",
+        "width": 2
+      },
+      "mode": "lines+markers",
+      "name": "Dispensing Rate (U.S.)",
+      "type": "scatter",
+      "xsrc": "hartatsr4:126:a17244",
+      "x": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ],
+      "ysrc": "hartatsr4:126:b11476",
+      "y": [
+        66.5,
+        59,
+        51.4,
+        46.7,
+        43.3
+      ],
+      "connectgaps": true
+    },
+    {
+      "mode": "markers",
+      "type": "scatter",
+      "xsrc": "hartatsr4:126:d6c176",
+      "x": [
+        2016,
+        2016
+      ],
+      "ysrc": "hartatsr4:126:02b60b",
+      "y": [
+        66.5,
+        66.5
+      ],
+      "marker": {
+        "size": 12,
+        "color": "rgb(185,76,38)"
+      }
     }
   ],
   "layout": {
-    "width": 1600,
-    "height": 1000,
+    "width": 1200,
+    "xaxis": {
+      "ticks": "outside",
+      "nticks": 5,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(82, 82, 82)",
+        "family": "Arial"
+      },
+      "linecolor": "rgb(204, 204, 204)",
+      "linewidth": 2,
+      "showticklabels": true
+    },
+    "yaxis": {
+      "showgrid": false,
+      "showline": false,
+      "zeroline": false,
+      "showticklabels": false
+    },
+    "height": 700,
+    "margin": {
+      "l": 150,
+      "r": 150,
+      "t": 110,
+      "autoexpand": false
+    },
     "autosize": false,
     "template": {
       "data": {
@@ -908,7 +1023,115 @@
           "arrowwidth": 1
         }
       }
-    }
+    },
+    "showlegend": false,
+    "annotations": [
+      {
+        "x": 0.03,
+        "y": 39,
+        "font": {
+          "size": 12,
+          "family": "Arial"
+        },
+        "text": "Drug Death Rate (NH) (39.0)",
+        "xref": "paper",
+        "xanchor": "right",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 1,
+        "y": 32,
+        "font": {
+          "size": 18,
+          "family": "Arial"
+        },
+        "text": "<br>32.0</br>",
+        "xref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.03,
+        "y": 19.8,
+        "font": {
+          "size": 12,
+          "family": "Arial"
+        },
+        "text": "Drug Death Rate (U.S.) (19.8)",
+        "xref": "paper",
+        "xanchor": "right",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 1,
+        "y": 21.6,
+        "font": {
+          "size": 18,
+          "family": "Arial"
+        },
+        "text": "<br>21.6</br>",
+        "xref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.03,
+        "y": 64.3,
+        "font": {
+          "size": 12,
+          "family": "Arial"
+        },
+        "text": "Dispensing Rate (NH) (64.3)",
+        "xref": "paper",
+        "xanchor": "right",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 1,
+        "y": 35.2,
+        "font": {
+          "size": 18,
+          "family": "Arial"
+        },
+        "text": "<br>35.2</br>",
+        "xref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.03,
+        "y": 66.5,
+        "font": {
+          "size": 12,
+          "family": "Arial"
+        },
+        "text": "Dispensing Rate (U.S.) (66.5)",
+        "xref": "paper",
+        "xanchor": "right",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 1,
+        "y": 43.3,
+        "font": {
+          "size": 18,
+          "family": "Arial"
+        },
+        "text": "<br>43.3</br>",
+        "xref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false
+      }
+    ],
+    "plot_bgcolor": "white"
   },
   "frames": []
 }
