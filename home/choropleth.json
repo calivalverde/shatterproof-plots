@@ -2,7 +2,7 @@
   "data": [
     {
       "type": "choropleth",
-      "zsrc": "hartatsr4:100:5f28e7",
+      "zsrc": "hartatsr4:212:ae0cce",
       "z": [
         9,
         1.3,
@@ -61,7 +61,7 @@
           "color": "white"
         }
       },
-      "textsrc": "hartatsr4:100:b487bd",
+      "textsrc": "hartatsr4:212:3178fc",
       "text": [
         "Alabama<br>Total Settlement Fund Allocation: $ 9.0 million<br>Allocation per Capita (ages 12+): $ 2.15<br>Estimated OUD population (ages 12+): 127,700<br>Allocation per OUD Person: $ 70.48<br>State Drug Death Rate (per 100,000 persons): 16.3",
         "Alaska<br>Total Settlement Fund Allocation: $ 1.3 million<br>Allocation per Capita (ages 12+): $ 2.14<br>Estimated OUD population (ages 12+): 22,650<br>Allocation per OUD Person: $ 57.39<br>State Drug Death Rate (per 100,000 persons): 17.8",
@@ -116,6 +116,7 @@
         "Wyoming<br>Total Settlement Fund Allocation: $ 1.0 million<br>Allocation per Capita (ages 12+): $ 2.04<br>Estimated OUD population (ages 12+): 11,139<br>Allocation per OUD Person: $ 89.77<br>State Drug Death Rate (per 100,000 persons): 14.1"
       ],
       "colorbar": {
+        "x": -0.01,
         "title": {
           "text": "Millions USD"
         }
@@ -151,7 +152,7 @@
         ]
       ],
       "locationmode": "USA-states",
-      "locationssrc": "hartatsr4:100:777495",
+      "locationssrc": "hartatsr4:212:35db55",
       "locations": [
         "AL",
         "AK",
@@ -217,9 +218,9 @@
         "type": "albers usa"
       }
     },
-    "width": 1440,
-    "height": 900,
-    "autosize": true,
+    "width": 1500,
+    "height": 1000,
+    "autosize": false,
     "template": {
       "data": {
         "bar": [
