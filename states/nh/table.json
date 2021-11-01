@@ -4,7 +4,7 @@
       "type": "table",
       "cells": {
         "fill": {
-          "colorsrc": "hartatsr4:116:ce9cbb",
+          "colorsrc": "hartatsr4:222:74894a",
           "color": [
             "whitesmoke",
             "white"
@@ -17,36 +17,34 @@
           "color": "lightgray"
         },
         "height": 30,
-        "alignsrc": "hartatsr4:116:941078",
+        "alignsrc": "hartatsr4:222:be129f",
         "align": [
           "left",
           "left"
         ],
-        "valuessrc": "hartatsr4:116:b86a5a",
+        "valuessrc": "hartatsr4:222:161526",
         "values": [
           [
-            "<b>Establish a dedicated fund",
-            "<b>Supplement rather than supplant existing funding.</b>",
-            "<b>Don’t spend all the money at once.</b>",
-            "<b>Report to the public on where the money is going.</b>"
+            "1. <b>Has the jurisdiction established a dedicated fund for dollars received as a result of the opioid litigation? (If “no,” skips to Indicator 6)</b>",
+            "2. <b>Was this done via legislation, executive order or some other mechanism?</b>",
+            "3. <b>Aside from dollars going to localities to address substance use, does all the money from the litigation go into the fund?</b>",
+            "4. <b>Will the fund receive money from all the different lawsuits, or just one or some of them?</b>",
+            "5. <b>Are acceptable uses of the fund detailed?</b>",
+            "6. <b>Is there a prohibition on using money from the litigation to supplant existing spending (either as part of a fund, or elsewhere)?</b>"
           ],
           [
-            "Ensuring that funds from the opioid lawsuits are being used to help people with substance use disorders is easier if dollars resulting from the various legal actions go into a dedicated fund. When establishing such a fund, jurisdictions should include specific language that the money from the fund cannot be used to replace existing state investments and outline the acceptable uses of the dollars when establishing this fund.",
-            "In order to be sure that funds are being used to expand programs, jurisdictions should understand their baseline level of spending on substance use disorders, including prevention efforts. This will help ensure that dollars from any legal actions are additive to existing efforts. Most jurisdictions have already developed comprehensive strategic plans focused on opioids; these plans can be used as a starting point for prioritizing new investments.",
-            "Ameliorating the toll of substance use, and addressing the underlying root causes, will require sustained funding by states and localities. Jurisdictions should avoid the temptation to exchange future payments that result from the opioid litigation for an upfront lump sum payment, as happened in many states with dollars from the tobacco settlements. Should the opioid lawsuits result in a lump sum payment to jurisdictions, they should consider establishing an endowment so that the dollars can be used over time.",
-            "Jurisdictions should publicly report on how funds from opioid litigation are being spent. The expenditures should be categorized such that it is easy to understand the goals of a particular program and the measures that they are using to determine success, such as, for naloxone distribution programs, the amount of naloxone distributed."
-          ],
-          [
-            "House Bill 1639 Establishes an opioid abatement trust fund.  The department of health and human services, in consultation with the New Hampshire opioid abatement advisory commission, shall use the fund to support programs associated with the prevention, treatment, and recovery of substance use disorders.",
-            "Data not yet available on funds spending.",
-            "Data not yet available on funds planning.",
-            "<a href=https://www.dhhs.nh.gov/dcbcs/bdas/opioid-abatement-trust-fund.htm>Opioid Abatement Trust Fund Advisory Commission</a>"
+            "<b>Yes</b>",
+            "<a href=http://gencourt.state.nh.us/bill_status/billText.aspx?sy=2020&id=1620&txtFormat=html>2020 NH House Bill 1639</a>",
+            "Yes. Section A:83 Part II: “The treasurer shall distribute <b>15 percent of all funds received</b> prior to any deposit in the consumer escrow account or the opioid abatement trust fund to the counties and the political subdivisions that filed lawsuits, on or before September 1, 2019, against opioid manufacturers, distributors and other persons identified as defendants in the multidistrict opioid litigation pending in the federal district court for the northern district of Ohio. This distribution shall occur on an annual basis.”",
+            "No, the bill only references manufacturers and distributors.",
+            "Yes, New Hampshire Opioid Abatement Advisory Commission will award grants, revolving loan funds, and matching funds to projects from the opioid abatement trust fund. Section A:86 Part I(b) details qualifying projects.",
+            "No"
           ]
         ]
       },
       "header": {
         "fill": {
-          "color": "#60C5B7"
+          "color": "#279184"
         },
         "font": {
           "size": 12,
@@ -56,41 +54,36 @@
           "color": "lightgray"
         },
         "height": 40,
-        "alignsrc": "hartatsr4:116:ebe1ee",
+        "alignsrc": "hartatsr4:222:7bb63a",
         "align": [
           "left",
           "left"
         ],
-        "valuessrc": "hartatsr4:116:60d665",
+        "valuessrc": "hartatsr4:222:67a5a5",
         "values": [
           [
-            "<b>PRINCIPLE 1 INDICATORS</b>"
+            "<b>Principle 1 State Fund Indicators</b>"
           ],
           [
-            "<b>HOW STATES CAN TAKE ACTION"
-          ],
-          [
-            "<b>NEW HAMPSHIRE TRACKER</b>"
+            "<b>New Hampshire Tracker</b>"
           ]
         ]
       },
-      "columnordersrc": "hartatsr4:116:767e1f",
+      "columnordersrc": "hartatsr4:222:f027ca",
       "columnorder": [
         1,
-        2,
-        3
+        2
       ],
-      "columnwidthsrc": "hartatsr4:116:a83ac3",
+      "columnwidthsrc": "hartatsr4:222:6dcdf4",
       "columnwidth": [
-        40,
-        100,
-        80
+        80,
+        120
       ]
     }
   ],
   "layout": {
-    "width": 1600,
-    "height": 1000,
+    "width": 1200,
+    "height": 800,
     "autosize": false,
     "template": {
       "data": {
