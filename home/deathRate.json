@@ -4,7 +4,7 @@
       "mode": "markers",
       "name": "",
       "type": "scatter",
-      "xsrc": "hartatsr4:114:dd61dc",
+      "xsrc": "hartatsr4:260:2d8a95",
       "x": [
         16.3,
         17.8,
@@ -58,7 +58,7 @@
         21.1,
         14.1
       ],
-      "ysrc": "hartatsr4:114:a5a5f2",
+      "ysrc": "hartatsr4:260:e4157e",
       "y": [
         70.48,
         57.39,
@@ -117,7 +117,7 @@
       "marker": {
         "symbol": "circle",
         "sizeref": 190.83734375,
-        "sizesrc": "hartatsr4:114:c894ab",
+        "sizesrc": "hartatsr4:260:e6ba89",
         "size": [
           127700,
           22650,
@@ -171,7 +171,7 @@
           128495,
           11139
         ],
-        "colorsrc": "hartatsr4:114:d6a233",
+        "colorsrc": "hartatsr4:260:695d96",
         "color": [
           127700,
           22650,
@@ -231,7 +231,7 @@
       "showlegend": false,
       "legendgroup": "",
       "orientation": "v",
-      "hovertextsrc": "hartatsr4:114:b0b959",
+      "hovertextsrc": "hartatsr4:260:3155cc",
       "hovertext": [
         "Alabama",
         "Alaska",
@@ -285,7 +285,7 @@
         "Wisconsin",
         "Wyoming"
       ],
-      "customdatasrc": "hartatsr4:114:e32fba",
+      "customdatasrc": "hartatsr4:260:55e200",
       "customdata": [
         [
           127700
@@ -441,13 +441,11 @@
           11139
         ]
       ],
-      "hovertemplate": "<b>%{hovertext}</b><br><br>Drug Death Rate (per 100,000)=%{x}<br>Allocation per OUD Person ($)=%{y:,}<br>Estimated OUD Population=%{marker.color:,}<extra></extra>"
+      "hovertemplate": "<b>%{hovertext}</b><br><br>Drug Death Rate (per 100,000)=%{x}<br>Allocation per IDUD Person ($)=%{y:,}<br>Est. IDUD Population=%{marker.color:,}<extra></extra>"
     }
   ],
   "layout": {
-    "title": {
-      "text": "Drug Death Rate (per 100,000) by Settlement Funds Allocation per OUD Person"
-    },
+    "width": 1400,
     "xaxis": {
       "type": "log",
       "title": {
@@ -461,7 +459,7 @@
     },
     "yaxis": {
       "title": {
-        "text": "Allocation per OUD Person ($)"
+        "text": "Allocation per IDUD Person ($)"
       },
       "anchor": "x",
       "domain": [
@@ -475,7 +473,10 @@
       "tracegroupgap": 0
     },
     "margin": {
-      "t": 60
+      "b": 5,
+      "l": 50,
+      "r": 350,
+      "t": 5
     },
     "autosize": false,
     "template": {
@@ -1035,7 +1036,6 @@
           "showlakes": true,
           "subunitcolor": "#C8D4E3"
         },
-        "width": 1440,
         "font": {
           "color": "#2a3f5f"
         },
@@ -1299,7 +1299,7 @@
     "coloraxis": {
       "colorbar": {
         "title": {
-          "text": "Estimated OUD Population"
+          "text": "Est. IDUD Population"
         }
       },
       "colorscale": [
