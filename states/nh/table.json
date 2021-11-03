@@ -4,7 +4,7 @@
       "type": "table",
       "cells": {
         "fill": {
-          "colorsrc": "hartatsr4:222:74894a",
+          "colorsrc": "hartatsr4:266:d97c7d",
           "color": [
             "whitesmoke",
             "white"
@@ -17,12 +17,12 @@
           "color": "lightgray"
         },
         "height": 30,
-        "alignsrc": "hartatsr4:222:be129f",
+        "alignsrc": "hartatsr4:266:32cdcf",
         "align": [
           "left",
           "left"
         ],
-        "valuessrc": "hartatsr4:222:161526",
+        "valuessrc": "hartatsr4:266:ac0a80",
         "values": [
           [
             "1. <b>Has the jurisdiction established a dedicated fund for dollars received as a result of the opioid litigation? (If “no,” skips to Indicator 6)</b>",
@@ -34,7 +34,7 @@
           ],
           [
             "<b>Yes</b>",
-            "<a href=http://gencourt.state.nh.us/bill_status/billText.aspx?sy=2020&id=1620&txtFormat=html>2020 NH House Bill 1639</a>",
+            "<b>2020 NH House Bill 1639</b>",
             "Yes. Section A:83 Part II: “The treasurer shall distribute <b>15 percent of all funds received</b> prior to any deposit in the consumer escrow account or the opioid abatement trust fund to the counties and the political subdivisions that filed lawsuits, on or before September 1, 2019, against opioid manufacturers, distributors and other persons identified as defendants in the multidistrict opioid litigation pending in the federal district court for the northern district of Ohio. This distribution shall occur on an annual basis.”",
             "No, the bill only references manufacturers and distributors.",
             "Yes, New Hampshire Opioid Abatement Advisory Commission will award grants, revolving loan funds, and matching funds to projects from the opioid abatement trust fund. Section A:86 Part I(b) details qualifying projects.",
@@ -54,12 +54,12 @@
           "color": "lightgray"
         },
         "height": 40,
-        "alignsrc": "hartatsr4:222:7bb63a",
+        "alignsrc": "hartatsr4:266:746d28",
         "align": [
           "left",
           "left"
         ],
-        "valuessrc": "hartatsr4:222:67a5a5",
+        "valuessrc": "hartatsr4:266:159fab",
         "values": [
           [
             "<b>Principle 1 State Fund Indicators</b>"
@@ -69,12 +69,12 @@
           ]
         ]
       },
-      "columnordersrc": "hartatsr4:222:f027ca",
+      "columnordersrc": "hartatsr4:266:d64a95",
       "columnorder": [
         1,
         2
       ],
-      "columnwidthsrc": "hartatsr4:222:6dcdf4",
+      "columnwidthsrc": "hartatsr4:266:8b7bdf",
       "columnwidth": [
         80,
         120
@@ -82,9 +82,15 @@
     }
   ],
   "layout": {
-    "width": 1200,
-    "height": 800,
-    "autosize": false,
+    "width": 1400,
+    "height": 400,
+    "margin": {
+      "b": 5,
+      "l": 5,
+      "r": 5,
+      "t": 15
+    },
+    "autosize": true,
     "template": {
       "data": {
         "bar": [
