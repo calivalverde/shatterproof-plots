@@ -2,7 +2,7 @@
   "data": [
     {
       "type": "choropleth",
-      "zsrc": "hartatsr4:212:ae0cce",
+      "zsrc": "hartatsr4:274:f4dd96",
       "z": [
         9,
         1.3,
@@ -11,8 +11,8 @@
         2399.6,
         410,
         307.5,
-        1.1,
         102.6,
+        1.1,
         1640,
         16,
         15,
@@ -54,66 +54,70 @@
         13.5,
         83,
         475.4,
-        1
+        1,
+        null,
+        null
       ],
       "marker": {
         "line": {
           "color": "white"
         }
       },
-      "textsrc": "hartatsr4:212:3178fc",
+      "textsrc": "hartatsr4:274:d04065",
       "text": [
-        "Alabama<br>Total Settlement Fund Allocation: $ 9.0 million<br>Allocation per Capita (ages 12+): $ 2.15<br>Estimated OUD population (ages 12+): 127,700<br>Allocation per OUD Person: $ 70.48<br>State Drug Death Rate (per 100,000 persons): 16.3",
-        "Alaska<br>Total Settlement Fund Allocation: $ 1.3 million<br>Allocation per Capita (ages 12+): $ 2.14<br>Estimated OUD population (ages 12+): 22,650<br>Allocation per OUD Person: $ 57.39<br>State Drug Death Rate (per 100,000 persons): 17.8",
-        "Arizona<br>Total Settlement Fund Allocation: $ 562.3 million<br>Allocation per Capita (ages 12+): $ 90.6<br>Estimated OUD population (ages 12+): 196,111<br>Allocation per OUD Person: $ 2,867.25<br>State Drug Death Rate (per 100,000 persons): 26.8",
-        "Arkansas<br>Total Settlement Fund Allocation: $ 221.4 million<br>Allocation per Capita (ages 12+): $ 86.58<br>Estimated OUD population (ages 12+): 67,000<br>Allocation per OUD Person: $ 3,304.48<br>State Drug Death Rate (per 100,000 persons): 13.5",
-        "California<br>Total Settlement Fund Allocation: $ 2.4 billion<br>Allocation per Capita (ages 12+): $ 71.32<br>Estimated OUD population (ages 12+): 1,221,359<br>Allocation per OUD Person: $ 1,964.70<br>State Drug Death Rate (per 100,000 persons): 15.0",
-        "Colorado<br>Total Settlement Fund Allocation: $ 410.0 million<br>Allocation per Capita (ages 12+): $ 83.06<br>Estimated OUD population (ages 12+): 246,803<br>Allocation per OUD Person: $ 1,661.24<br>State Drug Death Rate (per 100,000 persons): 18.0",
-        "Connecticut<br>Total Settlement Fund Allocation: $ 307.5 million<br>Allocation per Capita (ages 12+): $ 99.0<br>Estimated OUD population (ages 12+): 84,482<br>Allocation per OUD Person: $ 3,639.84<br>State Drug Death Rate (per 100,000 persons): 34.7",
-        "District of Columbia<br>Total Settlement Fund Allocation: $ 1.1 million<br>Allocation per Capita (ages 12+): $ 1.77<br>Estimated OUD population (ages 12+): 30,427<br>Allocation per OUD Person: $ 35.50<br>State Drug Death Rate (per 100,000 persons): nan",
-        "Delaware<br>Total Settlement Fund Allocation: $ 102.6 million<br>Allocation per Capita (ages 12+): $ 122.17<br>Estimated OUD population (ages 12+): 28,134<br>Allocation per OUD Person: $ 3,646.89<br>State Drug Death Rate (per 100,000 persons): 48.0",
-        "Florida<br>Total Settlement Fund Allocation: $ 1.64 billion<br>Allocation per Capita (ages 12+): $ 87.72<br>Estimated OUD population (ages 12+): 469,270<br>Allocation per OUD Person: $ 3,494.79<br>State Drug Death Rate (per 100,000 persons): 25.5",
-        "Georgia<br>Total Settlement Fund Allocation: $ 16.0 million<br>Allocation per Capita (ages 12+): $ 1.78<br>Estimated OUD population (ages 12+): 224,703<br>Allocation per OUD Person: $ 71.21<br>State Drug Death Rate (per 100,000 persons): 13.1",
-        "Hawaii<br>Total Settlement Fund Allocation: $ 15.0 million<br>Allocation per Capita (ages 12+): $ 12.39<br>Estimated OUD population (ages 12+): 37,665<br>Allocation per OUD Person: $ 398.24<br>State Drug Death Rate (per 100,000 persons): 15.9",
-        "Idaho<br>Total Settlement Fund Allocation: $ 121.9 million<br>Allocation per Capita (ages 12+): $ 81.52<br>Estimated OUD population (ages 12+): 39,927<br>Allocation per OUD Person: $ 3,053.04<br>State Drug Death Rate (per 100,000 persons): 15.1",
-        "Illinois<br>Total Settlement Fund Allocation: $ 809.8 million<br>Allocation per Capita (ages 12+): $ 74.72<br>Estimated OUD population (ages 12+): 330,553<br>Allocation per OUD Person: $ 2,449.83<br>State Drug Death Rate (per 100,000 persons): 21.9",
-        "Indiana<br>Total Settlement Fund Allocation: $ 519.5 million<br>Allocation per Capita (ages 12+): $ 91.06<br>Estimated OUD population (ages 12+): 199,106<br>Allocation per OUD Person: $ 2,609.16<br>State Drug Death Rate (per 100,000 persons): 26.6",
-        "Iowa<br>Total Settlement Fund Allocation: $ 199.7 million<br>Allocation per Capita (ages 12+): $ 74.62<br>Estimated OUD population (ages 12+): 77,077<br>Allocation per OUD Person: $ 2,590.92<br>State Drug Death Rate (per 100,000 persons): 11.5",
-        "Kansas<br>Total Settlement Fund Allocation: $ 39.8 million<br>Allocation per Capita (ages 12+): $ 16.23<br>Estimated OUD population (ages 12+): 62,763<br>Allocation per OUD Person: $ 634.13<br>State Drug Death Rate (per 100,000 persons): 14.3",
-        "Kentucky<br>Total Settlement Fund Allocation: $ 494.8 million<br>Allocation per Capita (ages 12+): $ 130.0<br>Estimated OUD population (ages 12+): 119,894<br>Allocation per OUD Person: $ 4,126.97<br>State Drug Death Rate (per 100,000 persons): 32.5",
-        "Louisiana<br>Total Settlement Fund Allocation: $ 346.9 million<br>Allocation per Capita (ages 12+): $ 88.42<br>Estimated OUD population (ages 12+): 111,422<br>Allocation per OUD Person: $ 3,113.38<br>State Drug Death Rate (per 100,000 persons): 28.3",
-        "Maine<br>Total Settlement Fund Allocation: $ 23.1 million<br>Allocation per Capita (ages 12+): $ 19.49<br>Estimated OUD population (ages 12+): 42,895<br>Allocation per OUD Person: $ 538.53<br>State Drug Death Rate (per 100,000 persons): 29.9",
-        "Maryland<br>Total Settlement Fund Allocation: $ 514.0 million<br>Allocation per Capita (ages 12+): $ 99.56<br>Estimated OUD population (ages 12+): 140,431<br>Allocation per OUD Person: $ 3,660.17<br>State Drug Death Rate (per 100,000 persons): 38.2",
-        "Massachusetts<br>Total Settlement Fund Allocation: $ 603.0 million<br>Allocation per Capita (ages 12+): $ 100.22<br>Estimated OUD population (ages 12+): 202,764<br>Allocation per OUD Person: $ 2,973.90<br>State Drug Death Rate (per 100,000 persons): 32.1",
-        "Michigan<br>Total Settlement Fund Allocation: $ 819.5 million<br>Allocation per Capita (ages 12+): $ 95.35<br>Estimated OUD population (ages 12+): 237,222<br>Allocation per OUD Person: $ 3,454.57<br>State Drug Death Rate (per 100,000 persons): 24.4",
-        "Minnesota<br>Total Settlement Fund Allocation: $ 395.0 million<br>Allocation per Capita (ages 12+): $ 82.67<br>Estimated OUD population (ages 12+): 132,831<br>Allocation per OUD Person: $ 2,973.71<br>State Drug Death Rate (per 100,000 persons): 14.2",
-        "Mississippi<br>Total Settlement Fund Allocation: $ 5.0 million<br>Allocation per Capita (ages 12+): $ 1.98<br>Estimated OUD population (ages 12+): 66,818<br>Allocation per OUD Person: $ 74.83<br>State Drug Death Rate (per 100,000 persons): 13.6",
-        "Missouri<br>Total Settlement Fund Allocation: $ 11.6 million<br>Allocation per Capita (ages 12+): $ 2.22<br>Estimated OUD population (ages 12+): 149,218<br>Allocation per OUD Person: $ 77.74<br>State Drug Death Rate (per 100,000 persons): 26.9",
-        "Montana<br>Total Settlement Fund Allocation: $ 1.9 million<br>Allocation per Capita (ages 12+): $ 2.07<br>Estimated OUD population (ages 12+): 31,749<br>Allocation per OUD Person: $ 59.84<br>State Drug Death Rate (per 100,000 persons): 14.1",
-        "Nebraska<br>Total Settlement Fund Allocation: $ 2.6 million<br>Allocation per Capita (ages 12+): $ 1.61<br>Estimated OUD population (ages 12+): 41,244<br>Allocation per OUD Person: $ 63.04<br>State Drug Death Rate (per 100,000 persons): 8.7",
-        "Nevada<br>Total Settlement Fund Allocation: $ 95.0 million<br>Allocation per Capita (ages 12+): $ 36.23<br>Estimated OUD population (ages 12+): 114,573<br>Allocation per OUD Person: $ 829.17<br>State Drug Death Rate (per 100,000 persons): 20.1",
-        "New Hampshire<br>Total Settlement Fund Allocation: $ 118.3 million<br>Allocation per Capita (ages 12+): $ 98.7<br>Estimated OUD population (ages 12+): 34,878<br>Allocation per OUD Person: $ 3,391.79<br>State Drug Death Rate (per 100,000 persons): 32.0",
-        "New Jersey<br>Total Settlement Fund Allocation: $ 16.0 million<br>Allocation per Capita (ages 12+): $ 2.1<br>Estimated OUD population (ages 12+): 202,649<br>Allocation per OUD Person: $ 78.95<br>State Drug Death Rate (per 100,000 persons): 31.7",
-        "New Mexico<br>Total Settlement Fund Allocation: Opted out<br>Allocation per Capita (ages 12+): $ 0.0<br>Estimated OUD population (ages 12+): 52,729<br>Allocation per OUD Person: $ 0.00<br>State Drug Death Rate (per 100,000 persons): 30.2",
-        "New York<br>Total Settlement Fund Allocation: $ 1.61 billion<br>Allocation per Capita (ages 12+): $ 96.11<br>Estimated OUD population (ages 12+): 504,874<br>Allocation per OUD Person: $ 3,192.88<br>State Drug Death Rate (per 100,000 persons): 18.2",
-        "North Carolina<br>Total Settlement Fund Allocation: $ 769.0 million<br>Allocation per Capita (ages 12+): $ 85.58<br>Estimated OUD population (ages 12+): 257,884<br>Allocation per OUD Person: $ 2,981.96<br>State Drug Death Rate (per 100,000 persons): 22.3",
-        "North Dakota<br>Total Settlement Fund Allocation: $ 1.0 million<br>Allocation per Capita (ages 12+): $ 1.57<br>Estimated OUD population (ages 12+): 19,117<br>Allocation per OUD Person: $ 52.31<br>State Drug Death Rate (per 100,000 persons): 11.4",
-        "Ohio<br>Total Settlement Fund Allocation: $ 832.7 million<br>Allocation per Capita (ages 12+): $ 83.26<br>Estimated OUD population (ages 12+): 345,024<br>Allocation per OUD Person: $ 2,413.45<br>State Drug Death Rate (per 100,000 persons): 38.3",
-        "Oklahoma<br>Total Settlement Fund Allocation: $ 372.65 million<br>Allocation per Capita (ages 12+): $ 112.07<br>Estimated OUD population (ages 12+): 94,436<br>Allocation per OUD Person: $ 3,946.04<br>State Drug Death Rate (per 100,000 persons): 16.7",
-        "Oregon<br>Total Settlement Fund Allocation: $ 328.9 million<br>Allocation per Capita (ages 12+): $ 90.16<br>Estimated OUD population (ages 12+): 131,320<br>Allocation per OUD Person: $ 2,504.58<br>State Drug Death Rate (per 100,000 persons): 14.0",
-        "Pennsylvania<br>Total Settlement Fund Allocation: $ 1.03 billion<br>Allocation per Capita (ages 12+): $ 92.56<br>Estimated OUD population (ages 12+): 323,581<br>Allocation per OUD Person: $ 3,169.84<br>State Drug Death Rate (per 100,000 persons): 35.6",
-        "Rhode Island<br>Total Settlement Fund Allocation: $ 2.6 million<br>Allocation per Capita (ages 12+): $ 2.8<br>Estimated OUD population (ages 12+): 28,196<br>Allocation per OUD Person: $ 92.21<br>State Drug Death Rate (per 100,000 persons): 29.5",
-        "South Carolina<br>Total Settlement Fund Allocation: $ 9.0 million<br>Allocation per Capita (ages 12+): $ 2.04<br>Estimated OUD population (ages 12+): 103,869<br>Allocation per OUD Person: $ 86.65<br>State Drug Death Rate (per 100,000 persons): 22.7",
-        "South Dakota<br>Total Settlement Fund Allocation: $ 51.2 million<br>Allocation per Capita (ages 12+): $ 69.37<br>Estimated OUD population (ages 12+): 17,567<br>Allocation per OUD Person: $ 2,914.78<br>State Drug Death Rate (per 100,000 persons): 10.5",
-        "Tennessee<br>Total Settlement Fund Allocation: $ 650.2 million<br>Allocation per Capita (ages 12+): $ 111.42<br>Estimated OUD population (ages 12+): 163,979<br>Allocation per OUD Person: $ 3,965.13<br>State Drug Death Rate (per 100,000 persons): 31.2",
-        "Texas<br>Total Settlement Fund Allocation: $ 1.48 billion<br>Allocation per Capita (ages 12+): $ 61.26<br>Estimated OUD population (ages 12+): 532,635<br>Allocation per OUD Person: $ 2,771.88<br>State Drug Death Rate (per 100,000 persons): 10.8",
-        "Utah<br>Total Settlement Fund Allocation: $ 315.3 million<br>Allocation per Capita (ages 12+): $ 121.63<br>Estimated OUD population (ages 12+): 74,916<br>Allocation per OUD Person: $ 4,208.70<br>State Drug Death Rate (per 100,000 persons): 18.9",
-        "Vermont<br>Total Settlement Fund Allocation: $ 61.5 million<br>Allocation per Capita (ages 12+): $ 111.63<br>Estimated OUD population (ages 12+): 22,038<br>Allocation per OUD Person: $ 2,790.63<br>State Drug Death Rate (per 100,000 persons): 23.8",
-        "Virginia<br>Total Settlement Fund Allocation: $ 540.7 million<br>Allocation per Capita (ages 12+): $ 74.0<br>Estimated OUD population (ages 12+): 217,748<br>Allocation per OUD Person: $ 2,483.15<br>State Drug Death Rate (per 100,000 persons): 18.3",
-        "Washington<br>Total Settlement Fund Allocation: $ 13.5 million<br>Allocation per Capita (ages 12+): $ 2.08<br>Estimated OUD population (ages 12+): 204,129<br>Allocation per OUD Person: $ 66.13<br>State Drug Death Rate (per 100,000 persons): 15.8",
-        "West Virginia<br>Total Settlement Fund Allocation: $ 83.0 million<br>Allocation per Capita (ages 12+): $ 53.28<br>Estimated OUD population (ages 12+): 42,841<br>Allocation per OUD Person: $ 1,937.42<br>State Drug Death Rate (per 100,000 persons): 52.8",
-        "Wisconsin<br>Total Settlement Fund Allocation: $ 475.4 million<br>Allocation per Capita (ages 12+): $ 95.08<br>Estimated OUD population (ages 12+): 128,495<br>Allocation per OUD Person: $ 3,699.76<br>State Drug Death Rate (per 100,000 persons): 21.1",
-        "Wyoming<br>Total Settlement Fund Allocation: $ 1.0 million<br>Allocation per Capita (ages 12+): $ 2.04<br>Estimated OUD population (ages 12+): 11,139<br>Allocation per OUD Person: $ 89.77<br>State Drug Death Rate (per 100,000 persons): 14.1"
+        "Alabama<br>Total Settlement Fund Allocation: $ 9.0 million<br>Allocation per capita (ages 12+): $ 2.15<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 127,700<br>Allocation per IDUD Person: $ 70.48<br>State Drug Overdose Death Rate (per 100,000 persons): 16.3<br>State Opioid Overdose Death Rate (per 100,000 persons): 8.9",
+        "Alaska<br>Total Settlement Fund Allocation: $ 1.3 million<br>Allocation per capita (ages 12+): $ 2.14<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 22,650<br>Allocation per IDUD Person: $ 57.39<br>State Drug Overdose Death Rate (per 100,000 persons): 17.8<br>State Opioid Overdose Death Rate (per 100,000 persons): 10.9",
+        "Arizona<br>Total Settlement Fund Allocation: $ 562.3 million<br>Allocation per capita (ages 12+): $ 90.6<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 196,111<br>Allocation per IDUD Person: $ 2,867.25<br>State Drug Overdose Death Rate (per 100,000 persons): 26.8<br>State Opioid Overdose Death Rate (per 100,000 persons): 18.4",
+        "Arkansas<br>Total Settlement Fund Allocation: $ 221.4 million<br>Allocation per capita (ages 12+): $ 86.58<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 67,000<br>Allocation per IDUD Person: $ 3,304.48<br>State Drug Overdose Death Rate (per 100,000 persons): 13.5<br>State Opioid Overdose Death Rate (per 100,000 persons): 7.0",
+        "California<br>Total Settlement Fund Allocation: $ 2.4 billion<br>Allocation per capita (ages 12+): $ 71.32<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 1,221,359<br>Allocation per IDUD Person: $ 1,964.70<br>State Drug Overdose Death Rate (per 100,000 persons): 15.0<br>State Opioid Overdose Death Rate (per 100,000 persons): 7.9",
+        "Colorado<br>Total Settlement Fund Allocation: $ 410.0 million<br>Allocation per capita (ages 12+): $ 83.06<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 246,803<br>Allocation per IDUD Person: $ 1,661.24<br>State Drug Overdose Death Rate (per 100,000 persons): 18.0<br>State Opioid Overdose Death Rate (per 100,000 persons): 10.6",
+        "Connecticut<br>Total Settlement Fund Allocation: $ 307.5 million<br>Allocation per capita (ages 12+): $ 99.0<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 84,482<br>Allocation per IDUD Person: $ 3,639.84<br>State Drug Overdose Death Rate (per 100,000 persons): 34.7<br>State Opioid Overdose Death Rate (per 100,000 persons): 31.7",
+        "Delaware<br>Total Settlement Fund Allocation: $ 102.6 million<br>Allocation per capita (ages 12+): $ 122.17<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 28,134<br>Allocation per IDUD Person: $ 3,646.89<br>State Drug Overdose Death Rate (per 100,000 persons): 48.0<br>State Opioid Overdose Death Rate (per 100,000 persons): 43.0",
+        "District of Columbia<br>Total Settlement Fund Allocation: $ 1.1 million<br>Allocation per capita (ages 12+): $ 1.77<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 30,427<br>Allocation per IDUD Person: $ 35.50<br>State Drug Overdose Death Rate (per 100,000 persons): 43.2<br>State Opioid Overdose Death Rate (per 100,000 persons): 33.7",
+        "Florida<br>Total Settlement Fund Allocation: $ 1.64 billion<br>Allocation per capita (ages 12+): $ 87.72<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 469,270<br>Allocation per IDUD Person: $ 3,494.79<br>State Drug Overdose Death Rate (per 100,000 persons): 25.5<br>State Opioid Overdose Death Rate (per 100,000 persons): 18.7",
+        "Georgia<br>Total Settlement Fund Allocation: $ 16.0 million<br>Allocation per capita (ages 12+): $ 1.78<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 224,703<br>Allocation per IDUD Person: $ 71.21<br>State Drug Overdose Death Rate (per 100,000 persons): 13.1<br>State Opioid Overdose Death Rate (per 100,000 persons): 8.2",
+        "Hawaii<br>Total Settlement Fund Allocation: $ 15.0 million<br>Allocation per capita (ages 12+): $ 12.39<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 37,665<br>Allocation per IDUD Person: $ 398.24<br>State Drug Overdose Death Rate (per 100,000 persons): 15.9<br>State Opioid Overdose Death Rate (per 100,000 persons): 3.5",
+        "Idaho<br>Total Settlement Fund Allocation: $ 121.9 million<br>Allocation per capita (ages 12+): $ 81.52<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 39,927<br>Allocation per IDUD Person: $ 3,053.04<br>State Drug Overdose Death Rate (per 100,000 persons): 15.1<br>State Opioid Overdose Death Rate (per 100,000 persons): 7.6",
+        "Illinois<br>Total Settlement Fund Allocation: $ 809.8 million<br>Allocation per capita (ages 12+): $ 74.72<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 330,553<br>Allocation per IDUD Person: $ 2,449.83<br>State Drug Overdose Death Rate (per 100,000 persons): 21.9<br>State Opioid Overdose Death Rate (per 100,000 persons): 17.5",
+        "Indiana<br>Total Settlement Fund Allocation: $ 519.5 million<br>Allocation per capita (ages 12+): $ 91.06<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 199,106<br>Allocation per IDUD Person: $ 2,609.16<br>State Drug Overdose Death Rate (per 100,000 persons): 26.6<br>State Opioid Overdose Death Rate (per 100,000 persons): 19.9",
+        "Iowa<br>Total Settlement Fund Allocation: $ 199.7 million<br>Allocation per capita (ages 12+): $ 74.62<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 77,077<br>Allocation per IDUD Person: $ 2,590.92<br>State Drug Overdose Death Rate (per 100,000 persons): 11.5<br>State Opioid Overdose Death Rate (per 100,000 persons): 5.4",
+        "Kansas<br>Total Settlement Fund Allocation: $ 39.8 million<br>Allocation per capita (ages 12+): $ 16.23<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 62,763<br>Allocation per IDUD Person: $ 634.13<br>State Drug Overdose Death Rate (per 100,000 persons): 14.3<br>State Opioid Overdose Death Rate (per 100,000 persons): 6.7",
+        "Kentucky<br>Total Settlement Fund Allocation: $ 494.8 million<br>Allocation per capita (ages 12+): $ 130.0<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 119,894<br>Allocation per IDUD Person: $ 4,126.97<br>State Drug Overdose Death Rate (per 100,000 persons): 32.5<br>State Opioid Overdose Death Rate (per 100,000 persons): 24.6",
+        "Louisiana<br>Total Settlement Fund Allocation: $ 346.9 million<br>Allocation per capita (ages 12+): $ 88.42<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 111,422<br>Allocation per IDUD Person: $ 3,113.38<br>State Drug Overdose Death Rate (per 100,000 persons): 28.3<br>State Opioid Overdose Death Rate (per 100,000 persons): 12.6",
+        "Maine<br>Total Settlement Fund Allocation: $ 23.1 million<br>Allocation per capita (ages 12+): $ 19.49<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 42,895<br>Allocation per IDUD Person: $ 538.53<br>State Drug Overdose Death Rate (per 100,000 persons): 29.9<br>State Opioid Overdose Death Rate (per 100,000 persons): 26.4",
+        "Maryland<br>Total Settlement Fund Allocation: $ 514.0 million<br>Allocation per capita (ages 12+): $ 99.56<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 140,431<br>Allocation per IDUD Person: $ 3,660.17<br>State Drug Overdose Death Rate (per 100,000 persons): 38.2<br>State Opioid Overdose Death Rate (per 100,000 persons): 34.0",
+        "Massachusetts<br>Total Settlement Fund Allocation: $ 603.0 million<br>Allocation per capita (ages 12+): $ 100.22<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 202,764<br>Allocation per IDUD Person: $ 2,973.90<br>State Drug Overdose Death Rate (per 100,000 persons): 32.1<br>State Opioid Overdose Death Rate (per 100,000 persons): 28.9",
+        "Michigan<br>Total Settlement Fund Allocation: $ 819.5 million<br>Allocation per capita (ages 12+): $ 95.35<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 237,222<br>Allocation per IDUD Person: $ 3,454.57<br>State Drug Overdose Death Rate (per 100,000 persons): 24.4<br>State Opioid Overdose Death Rate (per 100,000 persons): 18.5",
+        "Minnesota<br>Total Settlement Fund Allocation: $ 395.0 million<br>Allocation per capita (ages 12+): $ 82.67<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 132,831<br>Allocation per IDUD Person: $ 2,973.71<br>State Drug Overdose Death Rate (per 100,000 persons): 14.2<br>State Opioid Overdose Death Rate (per 100,000 persons): 7.8",
+        "Mississippi<br>Total Settlement Fund Allocation: $ 5.0 million<br>Allocation per capita (ages 12+): $ 1.98<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 66,818<br>Allocation per IDUD Person: $ 74.83<br>State Drug Overdose Death Rate (per 100,000 persons): 13.6<br>State Opioid Overdose Death Rate (per 100,000 persons): 8.5",
+        "Missouri<br>Total Settlement Fund Allocation: $ 11.6 million<br>Allocation per capita (ages 12+): $ 2.22<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 149,218<br>Allocation per IDUD Person: $ 77.74<br>State Drug Overdose Death Rate (per 100,000 persons): 26.9<br>State Opioid Overdose Death Rate (per 100,000 persons): 18.8",
+        "Montana<br>Total Settlement Fund Allocation: $ 1.9 million<br>Allocation per capita (ages 12+): $ 2.07<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 31,749<br>Allocation per IDUD Person: $ 59.84<br>State Drug Overdose Death Rate (per 100,000 persons): 14.1<br>State Opioid Overdose Death Rate (per 100,000 persons): 7.2",
+        "Nebraska<br>Total Settlement Fund Allocation: $ 2.6 million<br>Allocation per capita (ages 12+): $ 1.61<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 41,244<br>Allocation per IDUD Person: $ 63.04<br>State Drug Overdose Death Rate (per 100,000 persons): 8.7<br>State Opioid Overdose Death Rate (per 100,000 persons): 3.6",
+        "Nevada<br>Total Settlement Fund Allocation: $ 95.0 million<br>Allocation per capita (ages 12+): $ 36.23<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 114,573<br>Allocation per IDUD Person: $ 829.17<br>State Drug Overdose Death Rate (per 100,000 persons): 20.1<br>State Opioid Overdose Death Rate (per 100,000 persons): 11.7",
+        "New Hampshire<br>Total Settlement Fund Allocation: $ 118.3 million<br>Allocation per capita (ages 12+): $ 98.7<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 34,878<br>Allocation per IDUD Person: $ 3,391.79<br>State Drug Overdose Death Rate (per 100,000 persons): 32.0<br>State Opioid Overdose Death Rate (per 100,000 persons): 29.1",
+        "New Jersey<br>Total Settlement Fund Allocation: $ 16.0 million<br>Allocation per capita (ages 12+): $ 2.1<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 202,649<br>Allocation per IDUD Person: $ 78.95<br>State Drug Overdose Death Rate (per 100,000 persons): 31.7<br>State Opioid Overdose Death Rate (per 100,000 persons): 28.4",
+        "New Mexico<br>Total Settlement Fund Allocation: Opted out<br>Allocation per capita (ages 12+): $ 0.0<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 52,729<br>Allocation per IDUD Person: $ 0.00<br>State Drug Overdose Death Rate (per 100,000 persons): 30.2<br>State Opioid Overdose Death Rate (per 100,000 persons): 20.0",
+        "New York<br>Total Settlement Fund Allocation: $ 1.61 billion<br>Allocation per capita (ages 12+): $ 96.11<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 504,874<br>Allocation per IDUD Person: $ 3,192.88<br>State Drug Overdose Death Rate (per 100,000 persons): 18.2<br>State Opioid Overdose Death Rate (per 100,000 persons): 14.9",
+        "North Carolina<br>Total Settlement Fund Allocation: $ 769.0 million<br>Allocation per capita (ages 12+): $ 85.58<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 257,884<br>Allocation per IDUD Person: $ 2,981.96<br>State Drug Overdose Death Rate (per 100,000 persons): 22.3<br>State Opioid Overdose Death Rate (per 100,000 persons): 18.1",
+        "North Dakota<br>Total Settlement Fund Allocation: $ 1.0 million<br>Allocation per capita (ages 12+): $ 1.57<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 19,117<br>Allocation per IDUD Person: $ 52.31<br>State Drug Overdose Death Rate (per 100,000 persons): 11.4<br>State Opioid Overdose Death Rate (per 100,000 persons): 5.9",
+        "Ohio<br>Total Settlement Fund Allocation: $ 832.7 million<br>Allocation per capita (ages 12+): $ 83.26<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 345,024<br>Allocation per IDUD Person: $ 2,413.45<br>State Drug Overdose Death Rate (per 100,000 persons): 38.3<br>State Opioid Overdose Death Rate (per 100,000 persons): 31.5",
+        "Oklahoma<br>Total Settlement Fund Allocation: $ 372.65 million<br>Allocation per capita (ages 12+): $ 112.07<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 94,436<br>Allocation per IDUD Person: $ 3,946.04<br>State Drug Overdose Death Rate (per 100,000 persons): 16.7<br>State Opioid Overdose Death Rate (per 100,000 persons): 6.9",
+        "Oregon<br>Total Settlement Fund Allocation: $ 328.9 million<br>Allocation per capita (ages 12+): $ 90.16<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 131,320<br>Allocation per IDUD Person: $ 2,504.58<br>State Drug Overdose Death Rate (per 100,000 persons): 14.0<br>State Opioid Overdose Death Rate (per 100,000 persons): 7.6",
+        "Pennsylvania<br>Total Settlement Fund Allocation: $ 1.03 billion<br>Allocation per capita (ages 12+): $ 92.56<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 323,581<br>Allocation per IDUD Person: $ 3,169.84<br>State Drug Overdose Death Rate (per 100,000 persons): 35.6<br>State Opioid Overdose Death Rate (per 100,000 persons): 25.1",
+        "Rhode Island<br>Total Settlement Fund Allocation: $ 2.6 million<br>Allocation per capita (ages 12+): $ 2.8<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 28,196<br>Allocation per IDUD Person: $ 92.21<br>State Drug Overdose Death Rate (per 100,000 persons): 29.5<br>State Opioid Overdose Death Rate (per 100,000 persons): 23.3",
+        "South Carolina<br>Total Settlement Fund Allocation: $ 9.0 million<br>Allocation per capita (ages 12+): $ 2.04<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 103,869<br>Allocation per IDUD Person: $ 86.65<br>State Drug Overdose Death Rate (per 100,000 persons): 22.7<br>State Opioid Overdose Death Rate (per 100,000 persons): 17.6",
+        "South Dakota<br>Total Settlement Fund Allocation: $ 51.2 million<br>Allocation per capita (ages 12+): $ 69.37<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 17,567<br>Allocation per IDUD Person: $ 2,914.78<br>State Drug Overdose Death Rate (per 100,000 persons): 10.5<br>State Opioid Overdose Death Rate (per 100,000 persons): 4.5",
+        "Tennessee<br>Total Settlement Fund Allocation: $ 650.2 million<br>Allocation per capita (ages 12+): $ 111.42<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 163,979<br>Allocation per IDUD Person: $ 3,965.13<br>State Drug Overdose Death Rate (per 100,000 persons): 31.2<br>State Opioid Overdose Death Rate (per 100,000 persons): 23.4",
+        "Texas<br>Total Settlement Fund Allocation: $ 1.48 billion<br>Allocation per capita (ages 12+): $ 61.26<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 532,635<br>Allocation per IDUD Person: $ 2,771.88<br>State Drug Overdose Death Rate (per 100,000 persons): 10.8<br>State Opioid Overdose Death Rate (per 100,000 persons): 5.1",
+        "Utah<br>Total Settlement Fund Allocation: $ 315.3 million<br>Allocation per capita (ages 12+): $ 121.63<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 74,916<br>Allocation per IDUD Person: $ 4,208.70<br>State Drug Overdose Death Rate (per 100,000 persons): 18.9<br>State Opioid Overdose Death Rate (per 100,000 persons): 13.3",
+        "Vermont<br>Total Settlement Fund Allocation: $ 61.5 million<br>Allocation per capita (ages 12+): $ 111.63<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 22,038<br>Allocation per IDUD Person: $ 2,790.63<br>State Drug Overdose Death Rate (per 100,000 persons): 23.8<br>State Opioid Overdose Death Rate (per 100,000 persons): 20.7",
+        "Virginia<br>Total Settlement Fund Allocation: $ 540.7 million<br>Allocation per capita (ages 12+): $ 74.0<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 217,748<br>Allocation per IDUD Person: $ 2,483.15<br>State Drug Overdose Death Rate (per 100,000 persons): 18.3<br>State Opioid Overdose Death Rate (per 100,000 persons): 15.1",
+        "Washington<br>Total Settlement Fund Allocation: $ 13.5 million<br>Allocation per capita (ages 12+): $ 2.08<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 204,129<br>Allocation per IDUD Person: $ 66.13<br>State Drug Overdose Death Rate (per 100,000 persons): 15.8<br>State Opioid Overdose Death Rate (per 100,000 persons): 10.5",
+        "West Virginia<br>Total Settlement Fund Allocation: $ 83.0 million<br>Allocation per capita (ages 12+): $ 53.28<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 42,841<br>Allocation per IDUD Person: $ 1,937.42<br>State Drug Overdose Death Rate (per 100,000 persons): 52.8<br>State Opioid Overdose Death Rate (per 100,000 persons): 41.4",
+        "Wisconsin<br>Total Settlement Fund Allocation: $ 475.4 million<br>Allocation per capita (ages 12+): $ 95.08<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 128,495<br>Allocation per IDUD Person: $ 3,699.76<br>State Drug Overdose Death Rate (per 100,000 persons): 21.1<br>State Opioid Overdose Death Rate (per 100,000 persons): 16.6",
+        "Wyoming<br>Total Settlement Fund Allocation: $ 1.0 million<br>Allocation per capita (ages 12+): $ 2.04<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): 11,139<br>Allocation per IDUD Person: $ 89.77<br>State Drug Overdose Death Rate (per 100,000 persons): 14.1<br>State Opioid Overdose Death Rate (per 100,000 persons): 8.3",
+        "nan<br>Total Settlement Fund Allocation: nan<br>Allocation per capita (ages 12+): $ nan<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): nan<br>Allocation per IDUD Person: $ nan<br>State Drug Overdose Death Rate (per 100,000 persons): nan<br>State Opioid Overdose Death Rate (per 100,000 persons): nan",
+        "nan<br>Total Settlement Fund Allocation: nan<br>Allocation per capita (ages 12+): $ nan<br>Illicit Drug Use Disorder (IDUD) population (ages 12+): nan<br>Allocation per IDUD Person: $ nan<br>State Drug Overdose Death Rate (per 100,000 persons): nan<br>State Opioid Overdose Death Rate (per 100,000 persons): nan"
       ],
       "colorbar": {
         "x": -0.01,
@@ -152,7 +156,7 @@
         ]
       ],
       "locationmode": "USA-states",
-      "locationssrc": "hartatsr4:212:35db55",
+      "locationssrc": "hartatsr4:274:4f4a87",
       "locations": [
         "AL",
         "AK",
@@ -161,8 +165,8 @@
         "CA",
         "CO",
         "CT",
-        "DC",
         "DE",
+        "DC",
         "FL",
         "GA",
         "HI",
@@ -204,7 +208,9 @@
         "WA",
         "WV",
         "WI",
-        "WY"
+        "WY",
+        "nan",
+        "nan"
       ],
       "autocolorscale": false
     }
@@ -218,8 +224,14 @@
         "type": "albers usa"
       }
     },
-    "width": 1440,
+    "width": 1500,
     "height": 1000,
+    "margin": {
+      "b": 5,
+      "l": 5,
+      "r": 5,
+      "t": 5
+    },
     "autosize": false,
     "template": {
       "data": {
@@ -230,11 +242,6 @@
               "line": {
                 "color": "#E5ECF6",
                 "width": 0.5
-              },
-              "pattern": {
-                "size": 10,
-                "fillmode": "overlay",
-                "solidity": 0.2
               }
             },
             "error_x": {
@@ -471,11 +478,6 @@
               "line": {
                 "color": "#E5ECF6",
                 "width": 0.5
-              },
-              "pattern": {
-                "size": 10,
-                "fillmode": "overlay",
-                "solidity": 0.2
               }
             }
           }
@@ -535,10 +537,9 @@
           {
             "type": "histogram",
             "marker": {
-              "pattern": {
-                "size": 10,
-                "fillmode": "overlay",
-                "solidity": 0.2
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
               }
             }
           }
@@ -1030,7 +1031,6 @@
             "color": "#2a3f5f"
           }
         },
-        "autotypenumbers": "strict",
         "annotationdefaults": {
           "arrowhead": 0,
           "arrowcolor": "#2a3f5f",

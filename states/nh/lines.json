@@ -2,183 +2,183 @@
   "data": [
     {
       "line": {
-        "color": "rgb(96,197,183)",
-        "width": 4
+        "color": "rgb(39,145,132)",
+        "width": 12
       },
       "mode": "lines+markers",
-      "name": "Drug Death Rate (NH)",
+      "name": "Any Opioid",
       "type": "scatter",
-      "xsrc": "hartatsr4:126:8f59bf",
+      "xsrc": "hartatsr4:280:190f1e",
       "x": [
+        2015,
         2016,
         2017,
         2018,
-        2019,
-        2020
+        2019
       ],
-      "ysrc": "hartatsr4:126:653a7c",
+      "ysrc": "hartatsr4:280:004474",
       "y": [
-        39,
-        37,
+        31.3,
         35.8,
-        32,
-        32
+        34,
+        33.1,
+        29.1
       ],
       "connectgaps": true
     },
     {
       "mode": "markers",
       "type": "scatter",
-      "xsrc": "hartatsr4:126:63a457",
+      "xsrc": "hartatsr4:280:127dca",
       "x": [
-        2016,
-        2016
+        2015,
+        2019
       ],
-      "ysrc": "hartatsr4:126:ba974f",
+      "ysrc": "hartatsr4:280:0ce73f",
       "y": [
-        39,
-        39
+        31.3,
+        29.1
       ],
       "marker": {
-        "size": 12,
-        "color": "rgb(96,197,183)"
+        "size": 20,
+        "color": "rgb(39,145,132)"
       }
     },
     {
       "line": {
-        "color": "rgb(185,76,38)",
-        "width": 2
+        "color": "rgb(132,161,221)",
+        "width": 8
       },
       "mode": "lines+markers",
-      "name": "Drug Death Rate (U.S.)",
+      "name": "Rx Opioids",
       "type": "scatter",
-      "xsrc": "hartatsr4:126:6ed731",
+      "xsrc": "hartatsr4:280:26629f",
       "x": [
+        2015,
         2016,
         2017,
         2018,
-        2019,
-        2020
+        2019
       ],
-      "ysrc": "hartatsr4:126:bd72cb",
+      "ysrc": "hartatsr4:280:ef1a19",
       "y": [
-        19.8,
-        21.7,
-        20.7,
-        21.6,
-        21.6
+        5.7,
+        6.6,
+        5,
+        3.2,
+        3.3
       ],
       "connectgaps": true
     },
     {
       "mode": "markers",
       "type": "scatter",
-      "xsrc": "hartatsr4:126:10be91",
+      "xsrc": "hartatsr4:280:193ca1",
       "x": [
-        2016,
-        2016
+        2015,
+        2019
       ],
-      "ysrc": "hartatsr4:126:7c214e",
+      "ysrc": "hartatsr4:280:d25339",
       "y": [
-        19.8,
-        19.8
+        5.7,
+        3.3
       ],
       "marker": {
-        "size": 12,
-        "color": "rgb(185,76,38)"
+        "size": 20,
+        "color": "rgb(132,161,221)"
       }
     },
     {
       "line": {
-        "color": "rgb(88,126,201)",
-        "width": 4
+        "color": "rgb(132,161,221)",
+        "width": 8
       },
       "mode": "lines+markers",
-      "name": "Dispensing Rate (NH)",
+      "name": "Rx Dispensing",
       "type": "scatter",
-      "xsrc": "hartatsr4:126:3ec085",
+      "xsrc": "hartatsr4:280:a6f4a1",
       "x": [
+        2015,
         2016,
         2017,
         2018,
-        2019,
-        2020
+        2019
       ],
-      "ysrc": "hartatsr4:126:5982b2",
+      "ysrc": "hartatsr4:280:50acef",
       "y": [
+        74.8,
         64.3,
         52.5,
         46.1,
-        38.1,
-        35.2
+        38.1
       ],
       "connectgaps": true
     },
     {
       "mode": "markers",
       "type": "scatter",
-      "xsrc": "hartatsr4:126:c952bd",
+      "xsrc": "hartatsr4:280:fb66b9",
       "x": [
-        2016,
-        2016
+        2015,
+        2019
       ],
-      "ysrc": "hartatsr4:126:763e63",
+      "ysrc": "hartatsr4:280:ead694",
       "y": [
-        64.3,
-        64.3
+        74.8,
+        38.1
       ],
       "marker": {
-        "size": 12,
-        "color": "rgb(88,126,201)"
+        "size": 20,
+        "color": "rgb(132,161,221)"
       }
     },
     {
       "line": {
         "color": "rgb(185,76,38)",
-        "width": 2
+        "width": 12
       },
       "mode": "lines+markers",
-      "name": "Dispensing Rate (U.S.)",
+      "name": "Synthetic Opioids",
       "type": "scatter",
-      "xsrc": "hartatsr4:126:a17244",
+      "xsrc": "hartatsr4:280:7cbd43",
       "x": [
+        2015,
         2016,
         2017,
         2018,
-        2019,
-        2020
+        2019
       ],
-      "ysrc": "hartatsr4:126:b11476",
+      "ysrc": "hartatsr4:280:cf6ed5",
       "y": [
-        66.5,
-        59,
-        51.4,
-        46.7,
-        43.3
+        24.2,
+        30.6,
+        30.7,
+        31.8,
+        28.3
       ],
       "connectgaps": true
     },
     {
       "mode": "markers",
       "type": "scatter",
-      "xsrc": "hartatsr4:126:d6c176",
+      "xsrc": "hartatsr4:280:9fcabe",
       "x": [
-        2016,
-        2016
+        2015,
+        2019
       ],
-      "ysrc": "hartatsr4:126:02b60b",
+      "ysrc": "hartatsr4:280:139ed1",
       "y": [
-        66.5,
-        66.5
+        24.2,
+        28.3
       ],
       "marker": {
-        "size": 12,
+        "size": 20,
         "color": "rgb(185,76,38)"
       }
     }
   ],
   "layout": {
-    "width": 1200,
+    "width": 1400,
     "xaxis": {
       "ticks": "outside",
       "nticks": 5,
@@ -199,11 +199,12 @@
       "zeroline": false,
       "showticklabels": false
     },
-    "height": 700,
+    "height": 1150,
     "margin": {
-      "l": 150,
-      "r": 150,
-      "t": 110,
+      "b": 100,
+      "l": 100,
+      "r": 40,
+      "t": 10,
       "autoexpand": false
     },
     "autosize": false,
@@ -1028,25 +1029,25 @@
     "annotations": [
       {
         "x": 0.03,
-        "y": 39,
+        "y": 31.3,
         "font": {
           "size": 12,
           "family": "Arial"
         },
-        "text": "Drug Death Rate (NH) (39.0)",
+        "text": "Any Opioid (31.3)",
         "xref": "paper",
         "xanchor": "right",
         "yanchor": "middle",
         "showarrow": false
       },
       {
-        "x": 1,
-        "y": 32,
+        "x": 0.95,
+        "y": 29.1,
         "font": {
-          "size": 18,
+          "size": 10,
           "family": "Arial"
         },
-        "text": "<br>32.0</br>",
+        "text": "<br>29.1</br>",
         "xref": "paper",
         "xanchor": "left",
         "yanchor": "middle",
@@ -1054,25 +1055,25 @@
       },
       {
         "x": 0.03,
-        "y": 19.8,
+        "y": 5.7,
         "font": {
           "size": 12,
           "family": "Arial"
         },
-        "text": "Drug Death Rate (U.S.) (19.8)",
+        "text": "Rx Opioids (5.7)",
         "xref": "paper",
         "xanchor": "right",
         "yanchor": "middle",
         "showarrow": false
       },
       {
-        "x": 1,
-        "y": 21.6,
+        "x": 0.95,
+        "y": 3.3,
         "font": {
-          "size": 18,
+          "size": 10,
           "family": "Arial"
         },
-        "text": "<br>21.6</br>",
+        "text": "<br>3.3</br>",
         "xref": "paper",
         "xanchor": "left",
         "yanchor": "middle",
@@ -1080,25 +1081,25 @@
       },
       {
         "x": 0.03,
-        "y": 64.3,
+        "y": 74.8,
         "font": {
           "size": 12,
           "family": "Arial"
         },
-        "text": "Dispensing Rate (NH) (64.3)",
+        "text": "Rx Dispensing (74.8)",
         "xref": "paper",
         "xanchor": "right",
         "yanchor": "middle",
         "showarrow": false
       },
       {
-        "x": 1,
-        "y": 35.2,
+        "x": 0.95,
+        "y": 38.1,
         "font": {
-          "size": 18,
+          "size": 10,
           "family": "Arial"
         },
-        "text": "<br>35.2</br>",
+        "text": "<br>38.1</br>",
         "xref": "paper",
         "xanchor": "left",
         "yanchor": "middle",
@@ -1106,28 +1107,43 @@
       },
       {
         "x": 0.03,
-        "y": 66.5,
+        "y": 24.2,
         "font": {
           "size": 12,
           "family": "Arial"
         },
-        "text": "Dispensing Rate (U.S.) (66.5)",
+        "text": "Synthetic Opioids (24.2)",
         "xref": "paper",
         "xanchor": "right",
         "yanchor": "middle",
         "showarrow": false
       },
       {
-        "x": 1,
-        "y": 43.3,
+        "x": 0.95,
+        "y": 28.3,
         "font": {
-          "size": 18,
+          "size": 10,
           "family": "Arial"
         },
-        "text": "<br>43.3</br>",
+        "text": "<br>28.3</br>",
         "xref": "paper",
         "xanchor": "left",
         "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.5,
+        "y": -0.1,
+        "font": {
+          "size": 12,
+          "color": "rgb(150,150,150)",
+          "family": "Arial"
+        },
+        "text": "<b>Rates:</b> Overdose death rates involving opioids, by type, include any opioid, commonly prescribed opioids (Rx), and syntheic opioids, excluding methadone (per 100,000 people); Opioid prescription (Rx) dispensing rate is per 100 persons. <br><b>Source:</b> U.S. Department of Health and Human Services, Centers for Disease Control and Prevention (1999-2019)</br>",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "bottom",
         "showarrow": false
       }
     ],
