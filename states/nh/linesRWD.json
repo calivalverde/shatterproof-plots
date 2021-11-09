@@ -1,0 +1,1156 @@
+{
+  "data": [
+    {
+      "line": {
+        "color": "rgb(39,145,132)",
+        "width": 12
+      },
+      "mode": "lines+markers",
+      "name": "Any Opioid",
+      "type": "scatter",
+      "xsrc": "hartatsr4:280:190f1e",
+      "x": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "ysrc": "hartatsr4:280:004474",
+      "y": [
+        31.3,
+        35.8,
+        34,
+        33.1,
+        29.1
+      ],
+      "connectgaps": true
+    },
+    {
+      "mode": "markers",
+      "type": "scatter",
+      "xsrc": "hartatsr4:280:127dca",
+      "x": [
+        2015,
+        2019
+      ],
+      "ysrc": "hartatsr4:280:0ce73f",
+      "y": [
+        31.3,
+        29.1
+      ],
+      "marker": {
+        "size": 20,
+        "color": "rgb(39,145,132)"
+      }
+    },
+    {
+      "line": {
+        "color": "rgb(132,161,221)",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "Rx Opioids",
+      "type": "scatter",
+      "xsrc": "hartatsr4:280:26629f",
+      "x": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "ysrc": "hartatsr4:280:ef1a19",
+      "y": [
+        5.7,
+        6.6,
+        5,
+        3.2,
+        3.3
+      ],
+      "connectgaps": true
+    },
+    {
+      "mode": "markers",
+      "type": "scatter",
+      "xsrc": "hartatsr4:280:193ca1",
+      "x": [
+        2015,
+        2019
+      ],
+      "ysrc": "hartatsr4:280:d25339",
+      "y": [
+        5.7,
+        3.3
+      ],
+      "marker": {
+        "size": 20,
+        "color": "rgb(132,161,221)"
+      }
+    },
+    {
+      "line": {
+        "color": "rgb(132,161,221)",
+        "width": 8
+      },
+      "mode": "lines+markers",
+      "name": "Rx Dispensing",
+      "type": "scatter",
+      "xsrc": "hartatsr4:280:a6f4a1",
+      "x": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "ysrc": "hartatsr4:280:50acef",
+      "y": [
+        74.8,
+        64.3,
+        52.5,
+        46.1,
+        38.1
+      ],
+      "connectgaps": true
+    },
+    {
+      "mode": "markers",
+      "type": "scatter",
+      "xsrc": "hartatsr4:280:fb66b9",
+      "x": [
+        2015,
+        2019
+      ],
+      "ysrc": "hartatsr4:280:ead694",
+      "y": [
+        74.8,
+        38.1
+      ],
+      "marker": {
+        "size": 20,
+        "color": "rgb(132,161,221)"
+      }
+    },
+    {
+      "line": {
+        "color": "rgb(185,76,38)",
+        "width": 12
+      },
+      "mode": "lines+markers",
+      "name": "Synthetic Opioids",
+      "type": "scatter",
+      "xsrc": "hartatsr4:280:7cbd43",
+      "x": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "ysrc": "hartatsr4:280:cf6ed5",
+      "y": [
+        24.2,
+        30.6,
+        30.7,
+        31.8,
+        28.3
+      ],
+      "connectgaps": true
+    },
+    {
+      "mode": "markers",
+      "type": "scatter",
+      "xsrc": "hartatsr4:280:9fcabe",
+      "x": [
+        2015,
+        2019
+      ],
+      "ysrc": "hartatsr4:280:139ed1",
+      "y": [
+        24.2,
+        28.3
+      ],
+      "marker": {
+        "size": 20,
+        "color": "rgb(185,76,38)"
+      }
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "ticks": "outside",
+      "nticks": 5,
+      "showgrid": false,
+      "showline": true,
+      "tickfont": {
+        "size": 12,
+        "color": "rgb(82, 82, 82)",
+        "family": "Arial"
+      },
+      "linecolor": "rgb(204, 204, 204)",
+      "linewidth": 2,
+      "showticklabels": true
+    },
+    "yaxis": {
+      "showgrid": false,
+      "showline": false,
+      "zeroline": false,
+      "showticklabels": false
+    },
+    "margin": {
+      "b": 100,
+      "l": 100,
+      "r": 40,
+      "t": 10,
+      "autoexpand": false
+    },
+    "autosize": false,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            },
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            }
+          }
+        ],
+        "pie": [
+          {
+            "type": "pie",
+            "automargin": true
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "white",
+              "linecolor": "white",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "white",
+              "linecolor": "white",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "barpolar": [
+          {
+            "type": "barpolar",
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "#E5ECF6",
+          "showlakes": true,
+          "subunitcolor": "white"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "#E5ECF6",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "gridcolor": "white",
+          "linecolor": "white",
+          "automargin": true,
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "gridcolor": "white",
+          "linecolor": "white",
+          "automargin": true,
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "mapbox": {
+          "style": "light"
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "bgcolor": "#E5ECF6"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "coloraxis": {
+          "colorbar": {
+            "ticks": "",
+            "outlinewidth": 0
+          }
+        },
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1,
+              "#f0f921"
+            ]
+          ]
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "plot_bgcolor": "#E5ECF6",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "autotypenumbers": "strict",
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#2a3f5f",
+          "arrowwidth": 1
+        }
+      }
+    },
+    "showlegend": false,
+    "annotations": [
+      {
+        "x": 0.03,
+        "y": 31.3,
+        "font": {
+          "size": 12,
+          "family": "Arial"
+        },
+        "text": "Any Opioid (31.3)",
+        "xref": "paper",
+        "xanchor": "right",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.95,
+        "y": 29.1,
+        "font": {
+          "size": 10,
+          "family": "Arial"
+        },
+        "text": "<br>29.1</br>",
+        "xref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.03,
+        "y": 5.7,
+        "font": {
+          "size": 12,
+          "family": "Arial"
+        },
+        "text": "Rx Opioids (5.7)",
+        "xref": "paper",
+        "xanchor": "right",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.95,
+        "y": 3.3,
+        "font": {
+          "size": 10,
+          "family": "Arial"
+        },
+        "text": "<br>3.3</br>",
+        "xref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.03,
+        "y": 74.8,
+        "font": {
+          "size": 12,
+          "family": "Arial"
+        },
+        "text": "Rx Dispensing (74.8)",
+        "xref": "paper",
+        "xanchor": "right",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.95,
+        "y": 38.1,
+        "font": {
+          "size": 10,
+          "family": "Arial"
+        },
+        "text": "<br>38.1</br>",
+        "xref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.03,
+        "y": 24.2,
+        "font": {
+          "size": 12,
+          "family": "Arial"
+        },
+        "text": "Synthetic Opioids (24.2)",
+        "xref": "paper",
+        "xanchor": "right",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.95,
+        "y": 28.3,
+        "font": {
+          "size": 10,
+          "family": "Arial"
+        },
+        "text": "<br>28.3</br>",
+        "xref": "paper",
+        "xanchor": "left",
+        "yanchor": "middle",
+        "showarrow": false
+      },
+      {
+        "x": 0.5,
+        "y": -0.1,
+        "font": {
+          "size": 12,
+          "color": "rgb(150,150,150)",
+          "family": "Arial"
+        },
+        "text": "<b>Rates:</b> Overdose death rates involving opioids, by type, include any opioid, commonly prescribed opioids (Rx), and syntheic opioids, excluding methadone (per 100,000 people); Opioid prescription (Rx) dispensing rate is per 100 persons. <br><b>Source:</b> U.S. Department of Health and Human Services, Centers for Disease Control and Prevention (1999-2019)</br>",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "showarrow": false
+      }
+    ],
+    "plot_bgcolor": "white"
+  },
+  "useResizeHandler": true,
+  "style": {
+    "width": "100%",
+    "height": "100%"
+  },
+  "frames": []
+}
