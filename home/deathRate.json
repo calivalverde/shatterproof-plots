@@ -478,7 +478,7 @@
       "r": 350,
       "t": 5
     },
-    "autosize": false,
+    "autosize": true,
     "template": {
       "data": {
         "bar": [
