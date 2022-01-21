@@ -61,8 +61,6 @@
     }
   ],
   "layout": {
-    "width": 1200,
-    "height": 800,
     "legend": {
       "tracegroupgap": 0
     },
@@ -915,6 +913,11 @@
         "showarrow": false
       }
     ]
+  },
+  "useResizeHandler": true,
+  "style": {
+    "width": "100%",
+    "height": "100%"
   },
   "frames": []
 }
