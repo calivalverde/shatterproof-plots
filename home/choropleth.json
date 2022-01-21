@@ -227,7 +227,7 @@
       "r": 5,
       "t": 5
     },
-    "autosize": false,
+    "autosize": true,
     "dragmode": false,
     "template": {
       "data": {
