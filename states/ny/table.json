@@ -82,6 +82,8 @@
     }
   ],
   "layout": {
+    "width": 1250,
+    "height": 500,
     "margin": {
       "b": 5,
       "l": 10,
@@ -906,11 +908,6 @@
         }
       }
     }
-  },
-  "useResizeHandler": true,
-  "style": {
-    "width": "100%",
-    "height": "100%"
   },
   "frames": []
 }
