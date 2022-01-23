@@ -1,0 +1,1057 @@
+{
+  "data": [
+    {
+      "type": "choropleth",
+      "zsrc": "hartatsr4:326:0d1f93",
+      "z": [
+        38.59,
+        1305.8,
+        1212.92,
+        1151.3,
+        1100.59,
+        952.55,
+        1506.9,
+        2185.53,
+        19.02,
+        1254.41,
+        1414.04,
+        207.81,
+        1207.65,
+        985.75,
+        1394.48,
+        1142.7,
+        1360.39,
+        2173.91,
+        1279.6,
+        267.78,
+        1565.36,
+        1319.09,
+        1243.1,
+        1413.15,
+        1156.99,
+        1467.17,
+        1100.55,
+        902.34,
+        1754.7,
+        1361.39,
+        1334.1,
+        1643.06,
+        1720.24,
+        1339.31,
+        1124.39,
+        1413.65,
+        1470.7,
+        997.4,
+        1428.39,
+        35.85,
+        1410.11,
+        1014.21,
+        1628.95,
+        1150.86,
+        1921.51,
+        1440.33,
+        1284.68,
+        25.14,
+        712.29,
+        1566.46,
+        1481.54
+      ],
+      "marker": {
+        "line": {
+          "color": "white"
+        }
+      },
+      "textsrc": "hartatsr4:326:47933a",
+      "text": [
+        "<b>State</b>: Alabama<br><br><b>Settlement Funds Allocated:</b> $ 9.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $2<br><b>Estimated persons with a drug use disorder:</b> 233,209<br><b>Funds allocated per person with a drug use disorder:</b> $39<br><b>Drug overdoses per 100,000 people:</b> 16.3<br><b>Opioid-related overdoses per 100,000 people:</b> 8.9",
+        "<b>State</b>: Alaska<br><br><b>Settlement Funds Allocated:</b> $ 61.3 million<br><br><b>Funds allocated per person (ages 12+):</b> $101<br><b>Estimated persons with a drug use disorder:</b> 46,944<br><b>Funds allocated per person with a drug use disorder:</b> $1306<br><b>Drug overdoses per 100,000 people:</b> 17.8<br><b>Opioid-related overdoses per 100,000 people:</b> 10.9",
+        "<b>State</b>: Arizona<br><br><b>Settlement Funds Allocated:</b> $ 562.3 million<br><br><b>Funds allocated per person (ages 12+):</b> $91<br><b>Estimated persons with a drug use disorder:</b> 463,593<br><b>Funds allocated per person with a drug use disorder:</b> $1213<br><b>Drug overdoses per 100,000 people:</b> 26.8<br><b>Opioid-related overdoses per 100,000 people:</b> 18.4",
+        "<b>State</b>: Arkansas<br><br><b>Settlement Funds Allocated:</b> $ 221.4 million<br><br><b>Funds allocated per person (ages 12+):</b> $87<br><b>Estimated persons with a drug use disorder:</b> 192,305<br><b>Funds allocated per person with a drug use disorder:</b> $1151<br><b>Drug overdoses per 100,000 people:</b> 13.5<br><b>Opioid-related overdoses per 100,000 people:</b> 7.0",
+        "<b>State</b>: California<br><br><b>Settlement Funds Allocated:</b> $ 2.4 billion<br><br><b>Funds allocated per person (ages 12+):</b> $71<br><b>Estimated persons with a drug use disorder:</b> 2,180,278<br><b>Funds allocated per person with a drug use disorder:</b> $1101<br><b>Drug overdoses per 100,000 people:</b> 15.0<br><b>Opioid-related overdoses per 100,000 people:</b> 7.9",
+        "<b>State</b>: Colorado<br><br><b>Settlement Funds Allocated:</b> $ 410.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $83<br><b>Estimated persons with a drug use disorder:</b> 430,425<br><b>Funds allocated per person with a drug use disorder:</b> $953<br><b>Drug overdoses per 100,000 people:</b> 18.0<br><b>Opioid-related overdoses per 100,000 people:</b> 10.6",
+        "<b>State</b>: Connecticut<br><br><b>Settlement Funds Allocated:</b> $ 307.5 million<br><br><b>Funds allocated per person (ages 12+):</b> $99<br><b>Estimated persons with a drug use disorder:</b> 204,061<br><b>Funds allocated per person with a drug use disorder:</b> $1507<br><b>Drug overdoses per 100,000 people:</b> 34.7<br><b>Opioid-related overdoses per 100,000 people:</b> 31.7",
+        "<b>State</b>: Delaware<br><br><b>Settlement Funds Allocated:</b> $ 102.6 million<br><br><b>Funds allocated per person (ages 12+):</b> $122<br><b>Estimated persons with a drug use disorder:</b> 46,945<br><b>Funds allocated per person with a drug use disorder:</b> $2186<br><b>Drug overdoses per 100,000 people:</b> 48.0<br><b>Opioid-related overdoses per 100,000 people:</b> 43.0",
+        "<b>State</b>: District of Columbia<br><br><b>Settlement Funds Allocated:</b> $ 1.1 million<br><br><b>Funds allocated per person (ages 12+):</b> $2<br><b>Estimated persons with a drug use disorder:</b> 56,768<br><b>Funds allocated per person with a drug use disorder:</b> $19<br><b>Drug overdoses per 100,000 people:</b> 43.2<br><b>Opioid-related overdoses per 100,000 people:</b> 33.7",
+        "<b>State</b>: Florida<br><br><b>Settlement Funds Allocated:</b> $ 1.7 billion<br><br><b>Funds allocated per person (ages 12+):</b> $91<br><b>Estimated persons with a drug use disorder:</b> 1,359,201<br><b>Funds allocated per person with a drug use disorder:</b> $1254<br><b>Drug overdoses per 100,000 people:</b> 25.5<br><b>Opioid-related overdoses per 100,000 people:</b> 18.7",
+        "<b>State</b>: Georgia<br><br><b>Settlement Funds Allocated:</b> $ 652 million<br><br><b>Funds allocated per person (ages 12+):</b> $73<br><b>Estimated persons with a drug use disorder:</b> 461,090<br><b>Funds allocated per person with a drug use disorder:</b> $1414<br><b>Drug overdoses per 100,000 people:</b> 13.1<br><b>Opioid-related overdoses per 100,000 people:</b> 8.2",
+        "<b>State</b>: Hawaii<br><br><b>Settlement Funds Allocated:</b> $ 15.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $12<br><b>Estimated persons with a drug use disorder:</b> 72,182<br><b>Funds allocated per person with a drug use disorder:</b> $208<br><b>Drug overdoses per 100,000 people:</b> 15.9<br><b>Opioid-related overdoses per 100,000 people:</b> 3.5",
+        "<b>State</b>: Idaho<br><br><b>Settlement Funds Allocated:</b> $ 121.9 million<br><br><b>Funds allocated per person (ages 12+):</b> $82<br><b>Estimated persons with a drug use disorder:</b> 100,940<br><b>Funds allocated per person with a drug use disorder:</b> $1208<br><b>Drug overdoses per 100,000 people:</b> 15.1<br><b>Opioid-related overdoses per 100,000 people:</b> 7.6",
+        "<b>State</b>: Illinois<br><br><b>Settlement Funds Allocated:</b> $ 809.8 million<br><br><b>Funds allocated per person (ages 12+):</b> $75<br><b>Estimated persons with a drug use disorder:</b> 821,506<br><b>Funds allocated per person with a drug use disorder:</b> $986<br><b>Drug overdoses per 100,000 people:</b> 21.9<br><b>Opioid-related overdoses per 100,000 people:</b> 17.5",
+        "<b>State</b>: Indiana<br><br><b>Settlement Funds Allocated:</b> $ 519.5 million<br><br><b>Funds allocated per person (ages 12+):</b> $91<br><b>Estimated persons with a drug use disorder:</b> 372,539<br><b>Funds allocated per person with a drug use disorder:</b> $1394<br><b>Drug overdoses per 100,000 people:</b> 26.6<br><b>Opioid-related overdoses per 100,000 people:</b> 19.9",
+        "<b>State</b>: Iowa<br><br><b>Settlement Funds Allocated:</b> $ 199.7 million<br><br><b>Funds allocated per person (ages 12+):</b> $75<br><b>Estimated persons with a drug use disorder:</b> 174,761<br><b>Funds allocated per person with a drug use disorder:</b> $1143<br><b>Drug overdoses per 100,000 people:</b> 11.5<br><b>Opioid-related overdoses per 100,000 people:</b> 5.4",
+        "<b>State</b>: Kansas<br><br><b>Settlement Funds Allocated:</b> $ 229.8 million<br><br><b>Funds allocated per person (ages 12+):</b> $94<br><b>Estimated persons with a drug use disorder:</b> 168,922<br><b>Funds allocated per person with a drug use disorder:</b> $1360<br><b>Drug overdoses per 100,000 people:</b> 14.3<br><b>Opioid-related overdoses per 100,000 people:</b> 6.7",
+        "<b>State</b>: Kentucky<br><br><b>Settlement Funds Allocated:</b> $ 494.8 million<br><br><b>Funds allocated per person (ages 12+):</b> $130<br><b>Estimated persons with a drug use disorder:</b> 227,609<br><b>Funds allocated per person with a drug use disorder:</b> $2174<br><b>Drug overdoses per 100,000 people:</b> 32.5<br><b>Opioid-related overdoses per 100,000 people:</b> 24.6",
+        "<b>State</b>: Louisiana<br><br><b>Settlement Funds Allocated:</b> $ 346.9 million<br><br><b>Funds allocated per person (ages 12+):</b> $88<br><b>Estimated persons with a drug use disorder:</b> 271,101<br><b>Funds allocated per person with a drug use disorder:</b> $1280<br><b>Drug overdoses per 100,000 people:</b> 28.3<br><b>Opioid-related overdoses per 100,000 people:</b> 12.6",
+        "<b>State</b>: Maine<br><br><b>Settlement Funds Allocated:</b> $ 23.1 million<br><br><b>Funds allocated per person (ages 12+):</b> $19<br><b>Estimated persons with a drug use disorder:</b> 86,263<br><b>Funds allocated per person with a drug use disorder:</b> $268<br><b>Drug overdoses per 100,000 people:</b> 29.9<br><b>Opioid-related overdoses per 100,000 people:</b> 26.4",
+        "<b>State</b>: Maryland<br><br><b>Settlement Funds Allocated:</b> $ 514.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $100<br><b>Estimated persons with a drug use disorder:</b> 328,360<br><b>Funds allocated per person with a drug use disorder:</b> $1565<br><b>Drug overdoses per 100,000 people:</b> 38.2<br><b>Opioid-related overdoses per 100,000 people:</b> 34.0",
+        "<b>State</b>: Massachusetts<br><br><b>Settlement Funds Allocated:</b> $ 603.2 million<br><br><b>Funds allocated per person (ages 12+):</b> $100<br><b>Estimated persons with a drug use disorder:</b> 457,273<br><b>Funds allocated per person with a drug use disorder:</b> $1319<br><b>Drug overdoses per 100,000 people:</b> 32.1<br><b>Opioid-related overdoses per 100,000 people:</b> 28.9",
+        "<b>State</b>: Michigan<br><br><b>Settlement Funds Allocated:</b> $ 819.5 million<br><br><b>Funds allocated per person (ages 12+):</b> $95<br><b>Estimated persons with a drug use disorder:</b> 659,237<br><b>Funds allocated per person with a drug use disorder:</b> $1243<br><b>Drug overdoses per 100,000 people:</b> 24.4<br><b>Opioid-related overdoses per 100,000 people:</b> 18.5",
+        "<b>State</b>: Minnesota<br><br><b>Settlement Funds Allocated:</b> $ 395.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $83<br><b>Estimated persons with a drug use disorder:</b> 279,518<br><b>Funds allocated per person with a drug use disorder:</b> $1413<br><b>Drug overdoses per 100,000 people:</b> 14.2<br><b>Opioid-related overdoses per 100,000 people:</b> 7.8",
+        "<b>State</b>: Mississippi<br><br><b>Settlement Funds Allocated:</b> $ 208.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $82<br><b>Estimated persons with a drug use disorder:</b> 179,778<br><b>Funds allocated per person with a drug use disorder:</b> $1157<br><b>Drug overdoses per 100,000 people:</b> 13.6<br><b>Opioid-related overdoses per 100,000 people:</b> 8.5",
+        "<b>State</b>: Missouri<br><br><b>Settlement Funds Allocated:</b> $ 511.6 million<br><br><b>Funds allocated per person (ages 12+):</b> $98<br><b>Estimated persons with a drug use disorder:</b> 348,699<br><b>Funds allocated per person with a drug use disorder:</b> $1467<br><b>Drug overdoses per 100,000 people:</b> 26.9<br><b>Opioid-related overdoses per 100,000 people:</b> 18.8",
+        "<b>State</b>: Montana<br><br><b>Settlement Funds Allocated:</b> $ 81.9 million<br><br><b>Funds allocated per person (ages 12+):</b> $89<br><b>Estimated persons with a drug use disorder:</b> 74,417<br><b>Funds allocated per person with a drug use disorder:</b> $1101<br><b>Drug overdoses per 100,000 people:</b> 14.1<br><b>Opioid-related overdoses per 100,000 people:</b> 7.2",
+        "<b>State</b>: Nebraska<br><br><b>Settlement Funds Allocated:</b> $ 102.6 million<br><br><b>Funds allocated per person (ages 12+):</b> $63<br><b>Estimated persons with a drug use disorder:</b> 113,704<br><b>Funds allocated per person with a drug use disorder:</b> $902<br><b>Drug overdoses per 100,000 people:</b> 8.7<br><b>Opioid-related overdoses per 100,000 people:</b> 3.6",
+        "<b>State</b>: Nevada<br><br><b>Settlement Funds Allocated:</b> $ 380.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $145<br><b>Estimated persons with a drug use disorder:</b> 216,561<br><b>Funds allocated per person with a drug use disorder:</b> $1755<br><b>Drug overdoses per 100,000 people:</b> 20.1<br><b>Opioid-related overdoses per 100,000 people:</b> 11.7",
+        "<b>State</b>: New Hampshire<br><br><b>Settlement Funds Allocated:</b> $ 118.3 million<br><br><b>Funds allocated per person (ages 12+):</b> $99<br><b>Estimated persons with a drug use disorder:</b> 86,896<br><b>Funds allocated per person with a drug use disorder:</b> $1361<br><b>Drug overdoses per 100,000 people:</b> 32.0<br><b>Opioid-related overdoses per 100,000 people:</b> 29.1",
+        "<b>State</b>: New Jersey<br><br><b>Settlement Funds Allocated:</b> $ 621.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $82<br><b>Estimated persons with a drug use disorder:</b> 465,483<br><b>Funds allocated per person with a drug use disorder:</b> $1334<br><b>Drug overdoses per 100,000 people:</b> 31.7<br><b>Opioid-related overdoses per 100,000 people:</b> 28.4",
+        "<b>State</b>: New Mexico<br><br><b>Settlement Funds Allocated:</b> $ 200.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $112<br><b>Estimated persons with a drug use disorder:</b> 121,724<br><b>Funds allocated per person with a drug use disorder:</b> $1643<br><b>Drug overdoses per 100,000 people:</b> 30.2<br><b>Opioid-related overdoses per 100,000 people:</b> 20.0",
+        "<b>State</b>: New York<br><br><b>Settlement Funds Allocated:</b> $ 1.84 billion<br><br><b>Funds allocated per person (ages 12+):</b> $110<br><b>Estimated persons with a drug use disorder:</b> 1,068,454<br><b>Funds allocated per person with a drug use disorder:</b> $1720<br><b>Drug overdoses per 100,000 people:</b> 18.2<br><b>Opioid-related overdoses per 100,000 people:</b> 14.9",
+        "<b>State</b>: North Carolina<br><br><b>Settlement Funds Allocated:</b> $ 769.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $86<br><b>Estimated persons with a drug use disorder:</b> 574,175<br><b>Funds allocated per person with a drug use disorder:</b> $1339<br><b>Drug overdoses per 100,000 people:</b> 22.3<br><b>Opioid-related overdoses per 100,000 people:</b> 18.1",
+        "<b>State</b>: North Dakota<br><br><b>Settlement Funds Allocated:</b> $ 46.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $72<br><b>Estimated persons with a drug use disorder:</b> 40,911<br><b>Funds allocated per person with a drug use disorder:</b> $1124<br><b>Drug overdoses per 100,000 people:</b> 11.4<br><b>Opioid-related overdoses per 100,000 people:</b> 5.9",
+        "<b>State</b>: Ohio<br><br><b>Settlement Funds Allocated:</b> $ 832.7 million<br><br><b>Funds allocated per person (ages 12+):</b> $83<br><b>Estimated persons with a drug use disorder:</b> 589,041<br><b>Funds allocated per person with a drug use disorder:</b> $1414<br><b>Drug overdoses per 100,000 people:</b> 38.3<br><b>Opioid-related overdoses per 100,000 people:</b> 31.5",
+        "<b>State</b>: Oklahoma<br><br><b>Settlement Funds Allocated:</b> $ 372.7 million<br><br><b>Funds allocated per person (ages 12+):</b> $112<br><b>Estimated persons with a drug use disorder:</b> 253,382<br><b>Funds allocated per person with a drug use disorder:</b> $1471<br><b>Drug overdoses per 100,000 people:</b> 16.7<br><b>Opioid-related overdoses per 100,000 people:</b> 6.9",
+        "<b>State</b>: Oregon<br><br><b>Settlement Funds Allocated:</b> $ 328.9 million<br><br><b>Funds allocated per person (ages 12+):</b> $90<br><b>Estimated persons with a drug use disorder:</b> 329,758<br><b>Funds allocated per person with a drug use disorder:</b> $997<br><b>Drug overdoses per 100,000 people:</b> 14.0<br><b>Opioid-related overdoses per 100,000 people:</b> 7.6",
+        "<b>State</b>: Pennsylvania<br><br><b>Settlement Funds Allocated:</b> $ 1.03 billion<br><br><b>Funds allocated per person (ages 12+):</b> $93<br><b>Estimated persons with a drug use disorder:</b> 718,083<br><b>Funds allocated per person with a drug use disorder:</b> $1428<br><b>Drug overdoses per 100,000 people:</b> 35.6<br><b>Opioid-related overdoses per 100,000 people:</b> 25.1",
+        "<b>State</b>: Rhode Island<br><br><b>Settlement Funds Allocated:</b> $ 2.6 million<br><br><b>Funds allocated per person (ages 12+):</b> $3<br><b>Estimated persons with a drug use disorder:</b> 72,530<br><b>Funds allocated per person with a drug use disorder:</b> $36<br><b>Drug overdoses per 100,000 people:</b> 29.5<br><b>Opioid-related overdoses per 100,000 people:</b> 23.3",
+        "<b>State</b>: South Carolina<br><br><b>Settlement Funds Allocated:</b> $ 359.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $81<br><b>Estimated persons with a drug use disorder:</b> 254,591<br><b>Funds allocated per person with a drug use disorder:</b> $1410<br><b>Drug overdoses per 100,000 people:</b> 22.7<br><b>Opioid-related overdoses per 100,000 people:</b> 17.6",
+        "<b>State</b>: South Dakota<br><br><b>Settlement Funds Allocated:</b> $ 51.2 million<br><br><b>Funds allocated per person (ages 12+):</b> $69<br><b>Estimated persons with a drug use disorder:</b> 50,486<br><b>Funds allocated per person with a drug use disorder:</b> $1014<br><b>Drug overdoses per 100,000 people:</b> 10.5<br><b>Opioid-related overdoses per 100,000 people:</b> 4.5",
+        "<b>State</b>: Tennessee<br><br><b>Settlement Funds Allocated:</b> $ 650.2 million<br><br><b>Funds allocated per person (ages 12+):</b> $111<br><b>Estimated persons with a drug use disorder:</b> 399,153<br><b>Funds allocated per person with a drug use disorder:</b> $1629<br><b>Drug overdoses per 100,000 people:</b> 31.2<br><b>Opioid-related overdoses per 100,000 people:</b> 23.4",
+        "<b>State</b>: Texas<br><br><b>Settlement Funds Allocated:</b> $ 1.54 billion<br><br><b>Funds allocated per person (ages 12+):</b> $64<br><b>Estimated persons with a drug use disorder:</b> 1,337,612<br><b>Funds allocated per person with a drug use disorder:</b> $1151<br><b>Drug overdoses per 100,000 people:</b> 10.8<br><b>Opioid-related overdoses per 100,000 people:</b> 5.1",
+        "<b>State</b>: Utah<br><br><b>Settlement Funds Allocated:</b> $ 315.3 million<br><br><b>Funds allocated per person (ages 12+):</b> $122<br><b>Estimated persons with a drug use disorder:</b> 164,090<br><b>Funds allocated per person with a drug use disorder:</b> $1922<br><b>Drug overdoses per 100,000 people:</b> 18.9<br><b>Opioid-related overdoses per 100,000 people:</b> 13.3",
+        "<b>State</b>: Vermont<br><br><b>Settlement Funds Allocated:</b> $ 61.5 million<br><br><b>Funds allocated per person (ages 12+):</b> $112<br><b>Estimated persons with a drug use disorder:</b> 42,699<br><b>Funds allocated per person with a drug use disorder:</b> $1440<br><b>Drug overdoses per 100,000 people:</b> 23.8<br><b>Opioid-related overdoses per 100,000 people:</b> 20.7",
+        "<b>State</b>: Virginia<br><br><b>Settlement Funds Allocated:</b> $ 540.7 million<br><br><b>Funds allocated per person (ages 12+):</b> $74<br><b>Estimated persons with a drug use disorder:</b> 420,882<br><b>Funds allocated per person with a drug use disorder:</b> $1285<br><b>Drug overdoses per 100,000 people:</b> 18.3<br><b>Opioid-related overdoses per 100,000 people:</b> 15.1",
+        "<b>State</b>: Washington<br><br><b>Settlement Funds Allocated:</b> $ 13.5 million<br><br><b>Funds allocated per person (ages 12+):</b> $2<br><b>Estimated persons with a drug use disorder:</b> 536,976<br><b>Funds allocated per person with a drug use disorder:</b> $25<br><b>Drug overdoses per 100,000 people:</b> 15.8<br><b>Opioid-related overdoses per 100,000 people:</b> 10.5",
+        "<b>State</b>: West Virginia<br><br><b>Settlement Funds Allocated:</b> $ 83.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $53<br><b>Estimated persons with a drug use disorder:</b> 116,526<br><b>Funds allocated per person with a drug use disorder:</b> $712<br><b>Drug overdoses per 100,000 people:</b> 52.8<br><b>Opioid-related overdoses per 100,000 people:</b> 41.4",
+        "<b>State</b>: Wisconsin<br><br><b>Settlement Funds Allocated:</b> $ 475.4 million<br><br><b>Funds allocated per person (ages 12+):</b> $95<br><b>Estimated persons with a drug use disorder:</b> 303,487<br><b>Funds allocated per person with a drug use disorder:</b> $1566<br><b>Drug overdoses per 100,000 people:</b> 21.1<br><b>Opioid-related overdoses per 100,000 people:</b> 16.6",
+        "<b>State</b>: Wyoming<br><br><b>Settlement Funds Allocated:</b> $ 53.0 million<br><br><b>Funds allocated per person (ages 12+):</b> $108<br><b>Estimated persons with a drug use disorder:</b> 35,774<br><b>Funds allocated per person with a drug use disorder:</b> $1482<br><b>Drug overdoses per 100,000 people:</b> 14.1<br><b>Opioid-related overdoses per 100,000 people:</b> 8.3"
+      ],
+      "colorbar": {
+        "x": 0.9
+      },
+      "hoverinfo": "text",
+      "colorscale": [
+        [
+          0,
+          "rgb(209, 238, 234)"
+        ],
+        [
+          0.16666666666666666,
+          "rgb(168, 219, 217)"
+        ],
+        [
+          0.3333333333333333,
+          "rgb(133, 196, 201)"
+        ],
+        [
+          0.5,
+          "rgb(104, 171, 184)"
+        ],
+        [
+          0.6666666666666666,
+          "rgb(79, 144, 166)"
+        ],
+        [
+          0.8333333333333334,
+          "rgb(59, 115, 143)"
+        ],
+        [
+          1,
+          "rgb(42, 86, 116)"
+        ]
+      ],
+      "locationmode": "USA-states",
+      "locationssrc": "hartatsr4:326:add284",
+      "locations": [
+        "AL",
+        "AK",
+        "AZ",
+        "AR",
+        "CA",
+        "CO",
+        "CT",
+        "DE",
+        "DC",
+        "FL",
+        "GA",
+        "HI",
+        "ID",
+        "IL",
+        "IN",
+        "IA",
+        "KS",
+        "KY",
+        "LA",
+        "ME",
+        "MD",
+        "MA",
+        "MI",
+        "MN",
+        "MS",
+        "MO",
+        "MT",
+        "NE",
+        "NV",
+        "NH",
+        "NJ",
+        "NM",
+        "NY",
+        "NC",
+        "ND",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VT",
+        "VA",
+        "WA",
+        "WV",
+        "WI",
+        "WY"
+      ],
+      "autocolorscale": false
+    }
+  ],
+  "layout": {
+    "geo": {
+      "scope": "usa",
+      "lakecolor": "rgb(255, 255, 255)",
+      "showlakes": true,
+      "projection": {
+        "type": "albers usa"
+      }
+    },
+    "width": 320,
+    "height": 150,
+    "margin": {
+      "b": 5,
+      "l": 5,
+      "r": 5,
+      "t": 5
+    },
+    "autosize": false,
+    "dragmode": false,
+    "template": {
+      "data": {
+        "bar": [
+          {
+            "type": "bar",
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            },
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            }
+          }
+        ],
+        "pie": [
+          {
+            "type": "pie",
+            "automargin": true
+          }
+        ],
+        "table": [
+          {
+            "type": "table",
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            }
+          }
+        ],
+        "carpet": [
+          {
+            "type": "carpet",
+            "aaxis": {
+              "gridcolor": "white",
+              "linecolor": "white",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "gridcolor": "white",
+              "linecolor": "white",
+              "endlinecolor": "#2a3f5f",
+              "minorgridcolor": "white",
+              "startlinecolor": "#2a3f5f"
+            }
+          }
+        ],
+        "mesh3d": [
+          {
+            "type": "mesh3d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "contour": [
+          {
+            "type": "contour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "heatmap": [
+          {
+            "type": "heatmap",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "scatter": [
+          {
+            "type": "scatter",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "surface": [
+          {
+            "type": "surface",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "barpolar": [
+          {
+            "type": "barpolar",
+            "marker": {
+              "line": {
+                "color": "#E5ECF6",
+                "width": 0.5
+              },
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            }
+          }
+        ],
+        "heatmapgl": [
+          {
+            "type": "heatmapgl",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "histogram": [
+          {
+            "type": "histogram",
+            "marker": {
+              "pattern": {
+                "size": 10,
+                "fillmode": "overlay",
+                "solidity": 0.2
+              }
+            }
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            },
+            "type": "scatter3d",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattergl": [
+          {
+            "type": "scattergl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "choropleth": [
+          {
+            "type": "choropleth",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattergeo": [
+          {
+            "type": "scattergeo",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2d": [
+          {
+            "type": "histogram2d",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ],
+        "scatterpolar": [
+          {
+            "type": "scatterpolar",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "contourcarpet": [
+          {
+            "type": "contourcarpet",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            }
+          }
+        ],
+        "scattercarpet": [
+          {
+            "type": "scattercarpet",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scattermapbox": [
+          {
+            "type": "scattermapbox",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "type": "scatterpolargl",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "scatterternary": [
+          {
+            "type": "scatterternary",
+            "marker": {
+              "colorbar": {
+                "ticks": "",
+                "outlinewidth": 0
+              }
+            }
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "type": "histogram2dcontour",
+            "colorbar": {
+              "ticks": "",
+              "outlinewidth": 0
+            },
+            "colorscale": [
+              [
+                0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1,
+                "#f0f921"
+              ]
+            ]
+          }
+        ]
+      },
+      "layout": {
+        "geo": {
+          "bgcolor": "white",
+          "showland": true,
+          "lakecolor": "white",
+          "landcolor": "#E5ECF6",
+          "showlakes": true,
+          "subunitcolor": "white"
+        },
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "polar": {
+          "bgcolor": "#E5ECF6",
+          "radialaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "angularaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          },
+          "yaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          },
+          "zaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "gridwidth": 2,
+            "linecolor": "white",
+            "zerolinecolor": "white",
+            "showbackground": true,
+            "backgroundcolor": "#E5ECF6"
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "gridcolor": "white",
+          "linecolor": "white",
+          "automargin": true,
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "gridcolor": "white",
+          "linecolor": "white",
+          "automargin": true,
+          "zerolinecolor": "white",
+          "zerolinewidth": 2
+        },
+        "mapbox": {
+          "style": "light"
+        },
+        "ternary": {
+          "aaxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "baxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "caxis": {
+            "ticks": "",
+            "gridcolor": "white",
+            "linecolor": "white"
+          },
+          "bgcolor": "#E5ECF6"
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "coloraxis": {
+          "colorbar": {
+            "ticks": "",
+            "outlinewidth": 0
+          }
+        },
+        "hovermode": "closest",
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1,
+              "#f0f921"
+            ]
+          ]
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "plot_bgcolor": "#E5ECF6",
+        "paper_bgcolor": "white",
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "autotypenumbers": "strict",
+        "annotationdefaults": {
+          "arrowhead": 0,
+          "arrowcolor": "#2a3f5f",
+          "arrowwidth": 1
+        }
+      }
+    },
+    "hoverlabel": {
+      "font": {
+        "size": 11,
+        "family": "Arial"
+      },
+      "align": "left",
+      "bgcolor": "rgb(245,245,245)",
+      "bordercolor": "rgb(39,145,132)"
+    }
+  },
+  "frames": []
+}
