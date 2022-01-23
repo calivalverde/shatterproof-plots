@@ -1,96 +1,95 @@
 {
   "data": [
     {
-      "type": "table",
-      "cells": {
-        "fill": {
-          "colorsrc": "hartatsr4:266:d97c7d",
-          "color": [
-            "whitesmoke",
-            "white"
-          ]
-        },
-        "font": {
-          "size": 12
-        },
-        "line": {
-          "color": "lightgray"
-        },
-        "height": 30,
-        "alignsrc": "hartatsr4:266:32cdcf",
-        "align": [
-          "left",
-          "left"
-        ],
-        "valuessrc": "hartatsr4:266:ac0a80",
-        "values": [
-          [
-            "1. <b>Has the jurisdiction established a dedicated fund for dollars received as a result of the opioid litigation? (If “no,” skips to Indicator 6)</b>",
-            "2. <b>Was this done via legislation, executive order or some other mechanism?</b>",
-            "3. <b>Aside from dollars going to localities to address substance use, does all the money from the litigation go into the fund?</b>",
-            "4. <b>Will the fund receive money from all the different lawsuits, or just one or some of them?</b>",
-            "5. <b>Are acceptable uses of the fund detailed?</b>",
-            "6. <b>Is there a prohibition on using money from the litigation to supplant existing spending (either as part of a fund, or elsewhere)?</b>"
-          ],
-          [
-            "<b>Yes</b>",
-            "<b>2020 NH House Bill 1639</b>",
-            "Yes. Section A:83 Part II: “The treasurer shall distribute <b>15 percent of all funds received</b> prior to any deposit in the consumer escrow account or the opioid abatement trust fund to the counties and the political subdivisions that filed lawsuits, on or before September 1, 2019, against opioid manufacturers, distributors and other persons identified as defendants in the multidistrict opioid litigation pending in the federal district court for the northern district of Ohio. This distribution shall occur on an annual basis.”",
-            "No, the bill only references manufacturers and distributors.",
-            "Yes, New Hampshire Opioid Abatement Advisory Commission will award grants, revolving loan funds, and matching funds to projects from the opioid abatement trust fund. Section A:86 Part I(b) details qualifying projects.",
-            "No"
-          ]
-        ]
-      },
-      "header": {
-        "fill": {
-          "color": "#279184"
-        },
-        "font": {
-          "size": 12,
-          "color": "white"
-        },
-        "line": {
-          "color": "lightgray"
-        },
-        "height": 40,
-        "alignsrc": "hartatsr4:266:746d28",
-        "align": [
-          "left",
-          "left"
-        ],
-        "valuessrc": "hartatsr4:266:159fab",
-        "values": [
-          [
-            "<b>Principle 1 State Fund Indicators</b>"
-          ],
-          [
-            "<b>New Hampshire Tracker</b>"
-          ]
-        ]
-      },
-      "columnordersrc": "hartatsr4:266:d64a95",
-      "columnorder": [
-        1,
-        2
+      "name": "All Opioids",
+      "type": "bar",
+      "xsrc": "hartatsr4:350:47e59d",
+      "x": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
       ],
-      "columnwidthsrc": "hartatsr4:266:8b7bdf",
-      "columnwidth": [
-        80,
-        120
-      ]
+      "ysrc": "hartatsr4:350:c766cf",
+      "y": [
+        10.8,
+        15.1,
+        16.1,
+        15.1,
+        14.9
+      ],
+      "marker": {
+        "color": "rgb(39,145,132)"
+      },
+      "offsetgroup": "0"
+    },
+    {
+      "name": "Prescription (Rx) Opioids",
+      "type": "bar",
+      "xsrc": "hartatsr4:350:64caf0",
+      "x": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "hartatsr4:350:7d5094",
+      "y": [
+        4.5,
+        5.6,
+        5.3,
+        5.1,
+        4.9
+      ],
+      "marker": {
+        "color": "rgb(188,227,222)"
+      },
+      "offsetgroup": "1"
+    },
+    {
+      "name": "Synthetic Opioids",
+      "type": "bar",
+      "xsrc": "hartatsr4:350:c4de2d",
+      "x": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "hartatsr4:350:98ba4f",
+      "y": [
+        3.4,
+        8.4,
+        11.4,
+        11.4,
+        12.1
+      ],
+      "marker": {
+        "color": "rgb(185,76,38)"
+      },
+      "basesrc": "hartatsr4:350:f3c79f",
+      "base": [
+        4.5,
+        5.6,
+        5.3,
+        5.1,
+        4.9
+      ],
+      "offsetgroup": "1"
     }
   ],
   "layout": {
-    "width": 1400,
-    "height": 400,
-    "margin": {
-      "b": 5,
-      "l": 5,
-      "r": 5,
-      "t": 15
+    "width": 500,
+    "yaxis": {
+      "title": {
+        "text": "Overdose Rates/100,000"
+      }
     },
-    "autosize": true,
+    "height": 400,
+    "dragmode": false,
     "template": {
       "data": {
         "bar": [
@@ -98,7 +97,7 @@
             "type": "bar",
             "marker": {
               "line": {
-                "color": "#E5ECF6",
+                "color": "white",
                 "width": 0.5
               },
               "pattern": {
@@ -146,17 +145,17 @@
           {
             "type": "carpet",
             "aaxis": {
-              "gridcolor": "white",
-              "linecolor": "white",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
               "endlinecolor": "#2a3f5f",
-              "minorgridcolor": "white",
+              "minorgridcolor": "#C8D4E3",
               "startlinecolor": "#2a3f5f"
             },
             "baxis": {
-              "gridcolor": "white",
-              "linecolor": "white",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
               "endlinecolor": "#2a3f5f",
-              "minorgridcolor": "white",
+              "minorgridcolor": "#C8D4E3",
               "startlinecolor": "#2a3f5f"
             }
           }
@@ -339,7 +338,7 @@
             "type": "barpolar",
             "marker": {
               "line": {
-                "color": "#E5ECF6",
+                "color": "white",
                 "width": 0.5
               },
               "pattern": {
@@ -644,53 +643,53 @@
           "bgcolor": "white",
           "showland": true,
           "lakecolor": "white",
-          "landcolor": "#E5ECF6",
+          "landcolor": "white",
           "showlakes": true,
-          "subunitcolor": "white"
+          "subunitcolor": "#C8D4E3"
         },
         "font": {
           "color": "#2a3f5f"
         },
         "polar": {
-          "bgcolor": "#E5ECF6",
+          "bgcolor": "white",
           "radialaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
           },
           "angularaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
           }
         },
         "scene": {
           "xaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           },
           "yaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           },
           "zaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           }
         },
         "title": {
@@ -701,10 +700,10 @@
           "title": {
             "standoff": 15
           },
-          "gridcolor": "white",
-          "linecolor": "white",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
           "automargin": true,
-          "zerolinecolor": "white",
+          "zerolinecolor": "#EBF0F8",
           "zerolinewidth": 2
         },
         "yaxis": {
@@ -712,10 +711,10 @@
           "title": {
             "standoff": 15
           },
-          "gridcolor": "white",
-          "linecolor": "white",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
           "automargin": true,
-          "zerolinecolor": "white",
+          "zerolinecolor": "#EBF0F8",
           "zerolinewidth": 2
         },
         "mapbox": {
@@ -724,20 +723,20 @@
         "ternary": {
           "aaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
           "baxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
           "caxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
-          "bgcolor": "#E5ECF6"
+          "bgcolor": "white"
         },
         "colorway": [
           "#636efa",
@@ -893,7 +892,7 @@
         "hoverlabel": {
           "align": "left"
         },
-        "plot_bgcolor": "#E5ECF6",
+        "plot_bgcolor": "white",
         "paper_bgcolor": "white",
         "shapedefaults": {
           "line": {

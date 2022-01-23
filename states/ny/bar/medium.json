@@ -1,211 +1,95 @@
 {
   "data": [
     {
-      "line": {
-        "color": "rgb(39,145,132)",
-        "width": 12
-      },
-      "mode": "lines+markers",
-      "name": "Any Opioid",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:190f1e",
+      "name": "All Opioids",
+      "type": "bar",
+      "xsrc": "hartatsr4:348:468f06",
       "x": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
       ],
-      "ysrc": "hartatsr4:280:004474",
+      "ysrc": "hartatsr4:348:19a531",
       "y": [
-        31.3,
-        35.8,
-        34,
-        33.1,
-        29.1
-      ],
-      "connectgaps": true
-    },
-    {
-      "mode": "markers",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:127dca",
-      "x": [
-        2015,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:0ce73f",
-      "y": [
-        31.3,
-        29.1
+        10.8,
+        15.1,
+        16.1,
+        15.1,
+        14.9
       ],
       "marker": {
-        "size": 20,
         "color": "rgb(39,145,132)"
-      }
-    },
-    {
-      "line": {
-        "color": "rgb(132,161,221)",
-        "width": 8
       },
-      "mode": "lines+markers",
-      "name": "Rx Opioids",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:26629f",
-      "x": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:ef1a19",
-      "y": [
-        5.7,
-        6.6,
-        5,
-        3.2,
-        3.3
-      ],
-      "connectgaps": true
+      "offsetgroup": "0"
     },
     {
-      "mode": "markers",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:193ca1",
+      "name": "Prescription (Rx) Opioids",
+      "type": "bar",
+      "xsrc": "hartatsr4:348:264cfb",
       "x": [
-        2015,
-        2019
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
       ],
-      "ysrc": "hartatsr4:280:d25339",
+      "ysrc": "hartatsr4:348:dfa895",
       "y": [
-        5.7,
-        3.3
+        4.5,
+        5.6,
+        5.3,
+        5.1,
+        4.9
       ],
       "marker": {
-        "size": 20,
-        "color": "rgb(132,161,221)"
-      }
-    },
-    {
-      "line": {
-        "color": "rgb(132,161,221)",
-        "width": 8
+        "color": "rgb(188,227,222)"
       },
-      "mode": "lines+markers",
-      "name": "Rx Dispensing",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:a6f4a1",
-      "x": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:50acef",
-      "y": [
-        74.8,
-        64.3,
-        52.5,
-        46.1,
-        38.1
-      ],
-      "connectgaps": true
+      "offsetgroup": "1"
     },
     {
-      "mode": "markers",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:fb66b9",
-      "x": [
-        2015,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:ead694",
-      "y": [
-        74.8,
-        38.1
-      ],
-      "marker": {
-        "size": 20,
-        "color": "rgb(132,161,221)"
-      }
-    },
-    {
-      "line": {
-        "color": "rgb(185,76,38)",
-        "width": 12
-      },
-      "mode": "lines+markers",
       "name": "Synthetic Opioids",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:7cbd43",
+      "type": "bar",
+      "xsrc": "hartatsr4:348:00cb34",
       "x": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
       ],
-      "ysrc": "hartatsr4:280:cf6ed5",
+      "ysrc": "hartatsr4:348:217d71",
       "y": [
-        24.2,
-        30.6,
-        30.7,
-        31.8,
-        28.3
-      ],
-      "connectgaps": true
-    },
-    {
-      "mode": "markers",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:9fcabe",
-      "x": [
-        2015,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:139ed1",
-      "y": [
-        24.2,
-        28.3
+        3.4,
+        8.4,
+        11.4,
+        11.4,
+        12.1
       ],
       "marker": {
-        "size": 20,
         "color": "rgb(185,76,38)"
-      }
+      },
+      "basesrc": "hartatsr4:348:338bb8",
+      "base": [
+        4.5,
+        5.6,
+        5.3,
+        5.1,
+        4.9
+      ],
+      "offsetgroup": "1"
     }
   ],
   "layout": {
-    "xaxis": {
-      "ticks": "outside",
-      "nticks": 5,
-      "showgrid": false,
-      "showline": true,
-      "tickfont": {
-        "size": 12,
-        "color": "rgb(82, 82, 82)",
-        "family": "Arial"
-      },
-      "linecolor": "rgb(204, 204, 204)",
-      "linewidth": 2,
-      "showticklabels": true
-    },
+    "width": 768,
     "yaxis": {
-      "showgrid": false,
-      "showline": false,
-      "zeroline": false,
-      "showticklabels": false
+      "title": {
+        "text": "Overdose Death Rates per 100,000 persons"
+      }
     },
-    "margin": {
-      "b": 100,
-      "l": 100,
-      "r": 40,
-      "t": 10,
-      "autoexpand": false
-    },
-    "autosize": false,
+    "height": 500,
+    "dragmode": false,
     "template": {
       "data": {
         "bar": [
@@ -213,7 +97,7 @@
             "type": "bar",
             "marker": {
               "line": {
-                "color": "#E5ECF6",
+                "color": "white",
                 "width": 0.5
               },
               "pattern": {
@@ -261,17 +145,17 @@
           {
             "type": "carpet",
             "aaxis": {
-              "gridcolor": "white",
-              "linecolor": "white",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
               "endlinecolor": "#2a3f5f",
-              "minorgridcolor": "white",
+              "minorgridcolor": "#C8D4E3",
               "startlinecolor": "#2a3f5f"
             },
             "baxis": {
-              "gridcolor": "white",
-              "linecolor": "white",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
               "endlinecolor": "#2a3f5f",
-              "minorgridcolor": "white",
+              "minorgridcolor": "#C8D4E3",
               "startlinecolor": "#2a3f5f"
             }
           }
@@ -454,7 +338,7 @@
             "type": "barpolar",
             "marker": {
               "line": {
-                "color": "#E5ECF6",
+                "color": "white",
                 "width": 0.5
               },
               "pattern": {
@@ -759,53 +643,53 @@
           "bgcolor": "white",
           "showland": true,
           "lakecolor": "white",
-          "landcolor": "#E5ECF6",
+          "landcolor": "white",
           "showlakes": true,
-          "subunitcolor": "white"
+          "subunitcolor": "#C8D4E3"
         },
         "font": {
           "color": "#2a3f5f"
         },
         "polar": {
-          "bgcolor": "#E5ECF6",
+          "bgcolor": "white",
           "radialaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
           },
           "angularaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
           }
         },
         "scene": {
           "xaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           },
           "yaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           },
           "zaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           }
         },
         "title": {
@@ -816,10 +700,10 @@
           "title": {
             "standoff": 15
           },
-          "gridcolor": "white",
-          "linecolor": "white",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
           "automargin": true,
-          "zerolinecolor": "white",
+          "zerolinecolor": "#EBF0F8",
           "zerolinewidth": 2
         },
         "yaxis": {
@@ -827,10 +711,10 @@
           "title": {
             "standoff": 15
           },
-          "gridcolor": "white",
-          "linecolor": "white",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
           "automargin": true,
-          "zerolinecolor": "white",
+          "zerolinecolor": "#EBF0F8",
           "zerolinewidth": 2
         },
         "mapbox": {
@@ -839,20 +723,20 @@
         "ternary": {
           "aaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
           "baxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
           "caxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
-          "bgcolor": "#E5ECF6"
+          "bgcolor": "white"
         },
         "colorway": [
           "#636efa",
@@ -1008,7 +892,7 @@
         "hoverlabel": {
           "align": "left"
         },
-        "plot_bgcolor": "#E5ECF6",
+        "plot_bgcolor": "white",
         "paper_bgcolor": "white",
         "shapedefaults": {
           "line": {
@@ -1022,135 +906,7 @@
           "arrowwidth": 1
         }
       }
-    },
-    "showlegend": false,
-    "annotations": [
-      {
-        "x": 0.03,
-        "y": 31.3,
-        "font": {
-          "size": 12,
-          "family": "Arial"
-        },
-        "text": "Any Opioid (31.3)",
-        "xref": "paper",
-        "xanchor": "right",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.95,
-        "y": 29.1,
-        "font": {
-          "size": 10,
-          "family": "Arial"
-        },
-        "text": "<br>29.1</br>",
-        "xref": "paper",
-        "xanchor": "left",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.03,
-        "y": 5.7,
-        "font": {
-          "size": 12,
-          "family": "Arial"
-        },
-        "text": "Rx Opioids (5.7)",
-        "xref": "paper",
-        "xanchor": "right",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.95,
-        "y": 3.3,
-        "font": {
-          "size": 10,
-          "family": "Arial"
-        },
-        "text": "<br>3.3</br>",
-        "xref": "paper",
-        "xanchor": "left",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.03,
-        "y": 74.8,
-        "font": {
-          "size": 12,
-          "family": "Arial"
-        },
-        "text": "Rx Dispensing (74.8)",
-        "xref": "paper",
-        "xanchor": "right",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.95,
-        "y": 38.1,
-        "font": {
-          "size": 10,
-          "family": "Arial"
-        },
-        "text": "<br>38.1</br>",
-        "xref": "paper",
-        "xanchor": "left",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.03,
-        "y": 24.2,
-        "font": {
-          "size": 12,
-          "family": "Arial"
-        },
-        "text": "Synthetic Opioids (24.2)",
-        "xref": "paper",
-        "xanchor": "right",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.95,
-        "y": 28.3,
-        "font": {
-          "size": 10,
-          "family": "Arial"
-        },
-        "text": "<br>28.3</br>",
-        "xref": "paper",
-        "xanchor": "left",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.5,
-        "y": -0.1,
-        "font": {
-          "size": 12,
-          "color": "rgb(150,150,150)",
-          "family": "Arial"
-        },
-        "text": "<b>Rates:</b> Overdose death rates involving opioids, by type, include any opioid, commonly prescribed opioids (Rx), and syntheic opioids, excluding methadone (per 100,000 people); Opioid prescription (Rx) dispensing rate is per 100 persons. <br><b>Source:</b> U.S. Department of Health and Human Services, Centers for Disease Control and Prevention (1999-2019)</br>",
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center",
-        "yanchor": "bottom",
-        "showarrow": false
-      }
-    ],
-    "plot_bgcolor": "white"
-  },
-  "useResizeHandler": true,
-  "style": {
-    "width": "100%",
-    "height": "100%"
+    }
   },
   "frames": []
 }

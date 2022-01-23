@@ -1,213 +1,76 @@
 {
   "data": [
     {
-      "line": {
-        "color": "rgb(39,145,132)",
-        "width": 12
+      "hole": 0.4,
+      "name": "",
+      "type": "pie",
+      "title": {
+        "font": {
+          "size": 25,
+          "family": "Arial"
+        }
       },
-      "mode": "lines+markers",
-      "name": "Any Opioid",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:190f1e",
-      "x": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:004474",
-      "y": [
-        31.3,
-        35.8,
-        34,
-        33.1,
-        29.1
-      ],
-      "connectgaps": true
-    },
-    {
-      "mode": "markers",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:127dca",
-      "x": [
-        2015,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:0ce73f",
-      "y": [
-        31.3,
-        29.1
-      ],
-      "marker": {
-        "size": 20,
-        "color": "rgb(39,145,132)"
-      }
-    },
-    {
-      "line": {
-        "color": "rgb(132,161,221)",
-        "width": 8
+      "domain": {
+        "x": [
+          0,
+          1
+        ],
+        "y": [
+          0,
+          1
+        ]
       },
-      "mode": "lines+markers",
-      "name": "Rx Opioids",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:26629f",
-      "x": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:ef1a19",
-      "y": [
-        5.7,
-        6.6,
-        5,
-        3.2,
-        3.3
-      ],
-      "connectgaps": true
-    },
-    {
-      "mode": "markers",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:193ca1",
-      "x": [
-        2015,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:d25339",
-      "y": [
-        5.7,
-        3.3
-      ],
       "marker": {
-        "size": 20,
-        "color": "rgb(132,161,221)"
-      }
-    },
-    {
-      "line": {
-        "color": "rgb(132,161,221)",
-        "width": 8
+        "colorssrc": "hartatsr4:344:751452",
+        "colors": [
+          "rgb(242,103,34)",
+          "rgb(188,227,222)",
+          "rgb(92,93,95)",
+          "rgb(96,197,183)",
+          "rgb(132,161,221)",
+          "rgb(242,103,34)",
+          "rgb(188,227,222)",
+          "rgb(92,93,95)",
+          "rgb(96,197,183)",
+          "rgb(132,161,221)"
+        ]
       },
-      "mode": "lines+markers",
-      "name": "Rx Dispensing",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:a6f4a1",
-      "x": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:50acef",
-      "y": [
-        74.8,
-        64.3,
-        52.5,
-        46.1,
-        38.1
-      ],
-      "connectgaps": true
-    },
-    {
-      "mode": "markers",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:fb66b9",
-      "x": [
-        2015,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:ead694",
-      "y": [
-        74.8,
-        38.1
-      ],
-      "marker": {
-        "size": 20,
-        "color": "rgb(132,161,221)"
-      }
-    },
-    {
-      "line": {
-        "color": "rgb(185,76,38)",
-        "width": 12
+      "textfont": {
+        "size": 12
       },
-      "mode": "lines+markers",
-      "name": "Synthetic Opioids",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:7cbd43",
-      "x": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+      "textinfo": "percent",
+      "labelssrc": "hartatsr4:344:c0dac9",
+      "labels": [
+        "Purdue Pharma",
+        "Johnson & Johnson",
+        "Endo",
+        "McKesson/Amerisource Bergen/Cardinal Health",
+        "CVS/Walgreens/Rite Aid/Walmart"
       ],
-      "ysrc": "hartatsr4:280:cf6ed5",
-      "y": [
-        24.2,
-        30.6,
-        30.7,
-        31.8,
-        28.3
+      "valuessrc": "hartatsr4:344:a489c9",
+      "values": [
+        200000000,
+        230000000,
+        50000000,
+        1100000000,
+        26000000
       ],
-      "connectgaps": true
-    },
-    {
-      "mode": "markers",
-      "type": "scatter",
-      "xsrc": "hartatsr4:280:9fcabe",
-      "x": [
-        2015,
-        2019
-      ],
-      "ysrc": "hartatsr4:280:139ed1",
-      "y": [
-        24.2,
-        28.3
-      ],
-      "marker": {
-        "size": 20,
-        "color": "rgb(185,76,38)"
-      }
+      "showlegend": true,
+      "legendgroup": "",
+      "hovertemplate": "%{label}: <br>Settlement amount: $%{value} </br>"
     }
   ],
   "layout": {
-    "width": 1400,
-    "xaxis": {
-      "ticks": "outside",
-      "nticks": 5,
-      "showgrid": false,
-      "showline": true,
-      "tickfont": {
-        "size": 12,
-        "color": "rgb(82, 82, 82)",
-        "family": "Arial"
-      },
-      "linecolor": "rgb(204, 204, 204)",
-      "linewidth": 2,
-      "showticklabels": true
+    "width": 330,
+    "height": 600,
+    "legend": {
+      "tracegroupgap": 0
     },
-    "yaxis": {
-      "showgrid": false,
-      "showline": false,
-      "zeroline": false,
-      "showticklabels": false
-    },
-    "height": 1150,
     "margin": {
-      "b": 100,
-      "l": 100,
-      "r": 40,
-      "t": 10,
-      "autoexpand": false
+      "t": 60
     },
     "autosize": false,
+    "dragmode": false,
     "template": {
       "data": {
         "bar": [
@@ -1024,130 +887,7 @@
           "arrowwidth": 1
         }
       }
-    },
-    "showlegend": false,
-    "annotations": [
-      {
-        "x": 0.03,
-        "y": 31.3,
-        "font": {
-          "size": 12,
-          "family": "Arial"
-        },
-        "text": "Any Opioid (31.3)",
-        "xref": "paper",
-        "xanchor": "right",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.95,
-        "y": 29.1,
-        "font": {
-          "size": 10,
-          "family": "Arial"
-        },
-        "text": "<br>29.1</br>",
-        "xref": "paper",
-        "xanchor": "left",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.03,
-        "y": 5.7,
-        "font": {
-          "size": 12,
-          "family": "Arial"
-        },
-        "text": "Rx Opioids (5.7)",
-        "xref": "paper",
-        "xanchor": "right",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.95,
-        "y": 3.3,
-        "font": {
-          "size": 10,
-          "family": "Arial"
-        },
-        "text": "<br>3.3</br>",
-        "xref": "paper",
-        "xanchor": "left",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.03,
-        "y": 74.8,
-        "font": {
-          "size": 12,
-          "family": "Arial"
-        },
-        "text": "Rx Dispensing (74.8)",
-        "xref": "paper",
-        "xanchor": "right",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.95,
-        "y": 38.1,
-        "font": {
-          "size": 10,
-          "family": "Arial"
-        },
-        "text": "<br>38.1</br>",
-        "xref": "paper",
-        "xanchor": "left",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.03,
-        "y": 24.2,
-        "font": {
-          "size": 12,
-          "family": "Arial"
-        },
-        "text": "Synthetic Opioids (24.2)",
-        "xref": "paper",
-        "xanchor": "right",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.95,
-        "y": 28.3,
-        "font": {
-          "size": 10,
-          "family": "Arial"
-        },
-        "text": "<br>28.3</br>",
-        "xref": "paper",
-        "xanchor": "left",
-        "yanchor": "middle",
-        "showarrow": false
-      },
-      {
-        "x": 0.5,
-        "y": -0.1,
-        "font": {
-          "size": 12,
-          "color": "rgb(150,150,150)",
-          "family": "Arial"
-        },
-        "text": "<b>Rates:</b> Overdose death rates involving opioids, by type, include any opioid, commonly prescribed opioids (Rx), and syntheic opioids, excluding methadone (per 100,000 people); Opioid prescription (Rx) dispensing rate is per 100 persons. <br><b>Source:</b> U.S. Department of Health and Human Services, Centers for Disease Control and Prevention (1999-2019)</br>",
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center",
-        "yanchor": "bottom",
-        "showarrow": false
-      }
-    ],
-    "plot_bgcolor": "white"
+    }
   },
   "frames": []
 }

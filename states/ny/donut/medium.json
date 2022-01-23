@@ -1,484 +1,75 @@
 {
   "data": [
     {
-      "mode": "markers",
+      "hole": 0.4,
       "name": "",
-      "type": "scatter",
-      "xsrc": "hartatsr4:292:98bead",
-      "x": [
-        16.3,
-        17.8,
-        26.8,
-        13.5,
-        15,
-        18,
-        34.7,
-        48,
-        43.2,
-        25.5,
-        13.1,
-        15.9,
-        15.1,
-        21.9,
-        26.6,
-        11.5,
-        14.3,
-        32.5,
-        28.3,
-        29.9,
-        38.2,
-        32.1,
-        24.4,
-        14.2,
-        13.6,
-        26.9,
-        14.1,
-        8.7,
-        20.1,
-        32,
-        31.7,
-        30.2,
-        18.2,
-        22.3,
-        11.4,
-        38.3,
-        16.7,
-        14,
-        35.6,
-        29.5,
-        22.7,
-        10.5,
-        31.2,
-        10.8,
-        18.9,
-        23.8,
-        18.3,
-        15.8,
-        52.8,
-        21.1,
-        14.1
-      ],
-      "ysrc": "hartatsr4:292:768dec",
-      "y": [
-        38.59,
-        1305.8,
-        1212.92,
-        1151.3,
-        1100.59,
-        952.55,
-        1506.9,
-        2185.53,
-        19.02,
-        1206.59,
-        34.7,
-        207.81,
-        1207.65,
-        985.75,
-        1394.48,
-        1142.7,
-        1360.39,
-        2173.91,
-        1279.6,
-        267.78,
-        1565.36,
-        1319.09,
-        1243.1,
-        1413.15,
-        1156.99,
-        1467.17,
-        1100.55,
-        902.34,
-        1754.7,
-        1361.39,
-        1334.1,
-        0,
-        1720.24,
-        1339.31,
-        1124.39,
-        1413.65,
-        1470.7,
-        997.4,
-        1428.39,
-        35.85,
-        1410.11,
-        1014.21,
-        1628.95,
-        1150.86,
-        1921.51,
-        1440.33,
-        1284.68,
-        25.14,
-        712.29,
-        1566.46,
-        1481.54
-      ],
-      "xaxis": "x",
-      "yaxis": "y",
-      "marker": {
-        "symbol": "circle",
-        "sizeref": 340.6684375,
-        "sizesrc": "hartatsr4:292:7a18c8",
-        "size": [
-          233209,
-          46944,
-          463593,
-          192305,
-          2180278,
-          430425,
-          204061,
-          46945,
-          56768,
-          1359201,
-          461090,
-          72182,
-          100940,
-          821506,
-          372539,
-          174761,
-          168922,
-          227609,
-          271101,
-          86263,
-          328360,
-          457273,
-          659237,
-          279518,
-          179778,
-          348699,
-          74417,
-          113704,
-          216561,
-          86896,
-          465483,
-          121724,
-          1068454,
-          574175,
-          40911,
-          589041,
-          253382,
-          329758,
-          718083,
-          72530,
-          254591,
-          50486,
-          399153,
-          1337612,
-          164090,
-          42699,
-          420882,
-          536976,
-          116526,
-          303487,
-          35774
-        ],
-        "colorsrc": "hartatsr4:292:90bebe",
-        "color": [
-          233209,
-          46944,
-          463593,
-          192305,
-          2180278,
-          430425,
-          204061,
-          46945,
-          56768,
-          1359201,
-          461090,
-          72182,
-          100940,
-          821506,
-          372539,
-          174761,
-          168922,
-          227609,
-          271101,
-          86263,
-          328360,
-          457273,
-          659237,
-          279518,
-          179778,
-          348699,
-          74417,
-          113704,
-          216561,
-          86896,
-          465483,
-          121724,
-          1068454,
-          574175,
-          40911,
-          589041,
-          253382,
-          329758,
-          718083,
-          72530,
-          254591,
-          50486,
-          399153,
-          1337612,
-          164090,
-          42699,
-          420882,
-          536976,
-          116526,
-          303487,
-          35774
-        ],
-        "sizemode": "area",
-        "coloraxis": "coloraxis"
+      "type": "pie",
+      "title": {
+        "font": {
+          "size": 25,
+          "family": "Arial"
+        }
       },
-      "showlegend": false,
-      "legendgroup": "",
-      "orientation": "v",
-      "hovertextsrc": "hartatsr4:292:23f2ef",
-      "hovertext": [
-        "Alabama",
-        "Alaska",
-        "Arizona",
-        "Arkansas",
-        "California",
-        "Colorado",
-        "Connecticut",
-        "Delaware",
-        "District of Columbia",
-        "Florida",
-        "Georgia",
-        "Hawaii",
-        "Idaho",
-        "Illinois",
-        "Indiana",
-        "Iowa",
-        "Kansas",
-        "Kentucky",
-        "Louisiana",
-        "Maine",
-        "Maryland",
-        "Massachusetts",
-        "Michigan",
-        "Minnesota",
-        "Mississippi",
-        "Missouri",
-        "Montana",
-        "Nebraska",
-        "Nevada",
-        "New Hampshire",
-        "New Jersey",
-        "New Mexico",
-        "New York",
-        "North Carolina",
-        "North Dakota",
-        "Ohio",
-        "Oklahoma",
-        "Oregon",
-        "Pennsylvania",
-        "Rhode Island",
-        "South Carolina",
-        "South Dakota",
-        "Tennessee",
-        "Texas",
-        "Utah",
-        "Vermont",
-        "Virginia",
-        "Washington",
-        "West Virginia",
-        "Wisconsin",
-        "Wyoming"
-      ],
-      "customdatasrc": "hartatsr4:292:6d119e",
-      "customdata": [
-        [
-          233209
+      "domain": {
+        "x": [
+          0,
+          1
         ],
-        [
-          46944
-        ],
-        [
-          463593
-        ],
-        [
-          192305
-        ],
-        [
-          2180278
-        ],
-        [
-          430425
-        ],
-        [
-          204061
-        ],
-        [
-          46945
-        ],
-        [
-          56768
-        ],
-        [
-          1359201
-        ],
-        [
-          461090
-        ],
-        [
-          72182
-        ],
-        [
-          100940
-        ],
-        [
-          821506
-        ],
-        [
-          372539
-        ],
-        [
-          174761
-        ],
-        [
-          168922
-        ],
-        [
-          227609
-        ],
-        [
-          271101
-        ],
-        [
-          86263
-        ],
-        [
-          328360
-        ],
-        [
-          457273
-        ],
-        [
-          659237
-        ],
-        [
-          279518
-        ],
-        [
-          179778
-        ],
-        [
-          348699
-        ],
-        [
-          74417
-        ],
-        [
-          113704
-        ],
-        [
-          216561
-        ],
-        [
-          86896
-        ],
-        [
-          465483
-        ],
-        [
-          121724
-        ],
-        [
-          1068454
-        ],
-        [
-          574175
-        ],
-        [
-          40911
-        ],
-        [
-          589041
-        ],
-        [
-          253382
-        ],
-        [
-          329758
-        ],
-        [
-          718083
-        ],
-        [
-          72530
-        ],
-        [
-          254591
-        ],
-        [
-          50486
-        ],
-        [
-          399153
-        ],
-        [
-          1337612
-        ],
-        [
-          164090
-        ],
-        [
-          42699
-        ],
-        [
-          420882
-        ],
-        [
-          536976
-        ],
-        [
-          116526
-        ],
-        [
-          303487
-        ],
-        [
-          35774
+        "y": [
+          0,
+          1
         ]
+      },
+      "marker": {
+        "colorssrc": "hartatsr4:342:e00bf1",
+        "colors": [
+          "rgb(242,103,34)",
+          "rgb(188,227,222)",
+          "rgb(92,93,95)",
+          "rgb(96,197,183)",
+          "rgb(132,161,221)",
+          "rgb(242,103,34)",
+          "rgb(188,227,222)",
+          "rgb(92,93,95)",
+          "rgb(96,197,183)",
+          "rgb(132,161,221)"
+        ]
+      },
+      "textfont": {
+        "size": 20
+      },
+      "textinfo": "percent",
+      "labelssrc": "hartatsr4:342:e1134a",
+      "labels": [
+        "Purdue Pharma",
+        "Johnson & Johnson",
+        "Endo",
+        "McKesson/Amerisource Bergen/Cardinal Health",
+        "CVS/Walgreens/Rite Aid/Walmart"
       ],
-      "hovertemplate": "<b>%{hovertext}</b><br><br>Drug Overdose Death Rate (per 100,000)=%{x}<br>Allocation per IDUD Person ($)=%{y:,}<br>Est. IDUD Population=%{marker.color:,}<extra></extra>"
+      "valuessrc": "hartatsr4:342:d400f5",
+      "values": [
+        200000000,
+        230000000,
+        50000000,
+        1100000000,
+        26000000
+      ],
+      "showlegend": true,
+      "legendgroup": "",
+      "hovertemplate": "%{label}: <br>Settlement amount: $%{value} </br>"
     }
   ],
   "layout": {
-    "width": 1600,
-    "xaxis": {
-      "type": "log",
-      "title": {
-        "text": "Drug Overdose Death Rate (per 100,000)"
-      },
-      "anchor": "y",
-      "domain": [
-        0,
-        1
-      ]
-    },
-    "yaxis": {
-      "title": {
-        "text": "Allocation per IDUD Person ($)"
-      },
-      "anchor": "x",
-      "domain": [
-        0,
-        1
-      ]
-    },
-    "height": 1000,
+    "width": 768,
+    "height": 500,
     "legend": {
-      "itemsizing": "constant",
       "tracegroupgap": 0
     },
     "margin": {
-      "b": 5,
-      "l": 50,
-      "r": 350,
-      "t": 5
+      "t": 60
     },
-    "autosize": true,
+    "autosize": false,
     "template": {
       "data": {
         "bar": [
@@ -486,7 +77,7 @@
             "type": "bar",
             "marker": {
               "line": {
-                "color": "white",
+                "color": "#E5ECF6",
                 "width": 0.5
               },
               "pattern": {
@@ -534,17 +125,17 @@
           {
             "type": "carpet",
             "aaxis": {
-              "gridcolor": "#C8D4E3",
-              "linecolor": "#C8D4E3",
+              "gridcolor": "white",
+              "linecolor": "white",
               "endlinecolor": "#2a3f5f",
-              "minorgridcolor": "#C8D4E3",
+              "minorgridcolor": "white",
               "startlinecolor": "#2a3f5f"
             },
             "baxis": {
-              "gridcolor": "#C8D4E3",
-              "linecolor": "#C8D4E3",
+              "gridcolor": "white",
+              "linecolor": "white",
               "endlinecolor": "#2a3f5f",
-              "minorgridcolor": "#C8D4E3",
+              "minorgridcolor": "white",
               "startlinecolor": "#2a3f5f"
             }
           }
@@ -727,7 +318,7 @@
             "type": "barpolar",
             "marker": {
               "line": {
-                "color": "white",
+                "color": "#E5ECF6",
                 "width": 0.5
               },
               "pattern": {
@@ -1032,53 +623,53 @@
           "bgcolor": "white",
           "showland": true,
           "lakecolor": "white",
-          "landcolor": "white",
+          "landcolor": "#E5ECF6",
           "showlakes": true,
-          "subunitcolor": "#C8D4E3"
+          "subunitcolor": "white"
         },
         "font": {
           "color": "#2a3f5f"
         },
         "polar": {
-          "bgcolor": "white",
+          "bgcolor": "#E5ECF6",
           "radialaxis": {
             "ticks": "",
-            "gridcolor": "#EBF0F8",
-            "linecolor": "#EBF0F8"
+            "gridcolor": "white",
+            "linecolor": "white"
           },
           "angularaxis": {
             "ticks": "",
-            "gridcolor": "#EBF0F8",
-            "linecolor": "#EBF0F8"
+            "gridcolor": "white",
+            "linecolor": "white"
           }
         },
         "scene": {
           "xaxis": {
             "ticks": "",
-            "gridcolor": "#DFE8F3",
+            "gridcolor": "white",
             "gridwidth": 2,
-            "linecolor": "#EBF0F8",
-            "zerolinecolor": "#EBF0F8",
+            "linecolor": "white",
+            "zerolinecolor": "white",
             "showbackground": true,
-            "backgroundcolor": "white"
+            "backgroundcolor": "#E5ECF6"
           },
           "yaxis": {
             "ticks": "",
-            "gridcolor": "#DFE8F3",
+            "gridcolor": "white",
             "gridwidth": 2,
-            "linecolor": "#EBF0F8",
-            "zerolinecolor": "#EBF0F8",
+            "linecolor": "white",
+            "zerolinecolor": "white",
             "showbackground": true,
-            "backgroundcolor": "white"
+            "backgroundcolor": "#E5ECF6"
           },
           "zaxis": {
             "ticks": "",
-            "gridcolor": "#DFE8F3",
+            "gridcolor": "white",
             "gridwidth": 2,
-            "linecolor": "#EBF0F8",
-            "zerolinecolor": "#EBF0F8",
+            "linecolor": "white",
+            "zerolinecolor": "white",
             "showbackground": true,
-            "backgroundcolor": "white"
+            "backgroundcolor": "#E5ECF6"
           }
         },
         "title": {
@@ -1089,10 +680,10 @@
           "title": {
             "standoff": 15
           },
-          "gridcolor": "#EBF0F8",
-          "linecolor": "#EBF0F8",
+          "gridcolor": "white",
+          "linecolor": "white",
           "automargin": true,
-          "zerolinecolor": "#EBF0F8",
+          "zerolinecolor": "white",
           "zerolinewidth": 2
         },
         "yaxis": {
@@ -1100,10 +691,10 @@
           "title": {
             "standoff": 15
           },
-          "gridcolor": "#EBF0F8",
-          "linecolor": "#EBF0F8",
+          "gridcolor": "white",
+          "linecolor": "white",
           "automargin": true,
-          "zerolinecolor": "#EBF0F8",
+          "zerolinecolor": "white",
           "zerolinewidth": 2
         },
         "mapbox": {
@@ -1112,20 +703,20 @@
         "ternary": {
           "aaxis": {
             "ticks": "",
-            "gridcolor": "#DFE8F3",
-            "linecolor": "#A2B1C6"
+            "gridcolor": "white",
+            "linecolor": "white"
           },
           "baxis": {
             "ticks": "",
-            "gridcolor": "#DFE8F3",
-            "linecolor": "#A2B1C6"
+            "gridcolor": "white",
+            "linecolor": "white"
           },
           "caxis": {
             "ticks": "",
-            "gridcolor": "#DFE8F3",
-            "linecolor": "#A2B1C6"
+            "gridcolor": "white",
+            "linecolor": "white"
           },
-          "bgcolor": "white"
+          "bgcolor": "#E5ECF6"
         },
         "colorway": [
           "#636efa",
@@ -1281,7 +872,7 @@
         "hoverlabel": {
           "align": "left"
         },
-        "plot_bgcolor": "white",
+        "plot_bgcolor": "#E5ECF6",
         "paper_bgcolor": "white",
         "shapedefaults": {
           "line": {
@@ -1296,35 +887,34 @@
         }
       }
     },
-    "coloraxis": {
-      "colorbar": {
-        "title": {
-          "text": "Est. IDUD Population"
-        }
+    "annotations": [
+      {
+        "x": 0.5,
+        "y": 0.5,
+        "font": {
+          "size": 20,
+          "color": "black",
+          "family": "Arial"
+        },
+        "text": "$ 1.84 billion",
+        "showarrow": false
       },
-      "colorscale": [
-        [
-          0,
-          "rgb(242, 103, 34)"
-        ],
-        [
-          0.25,
-          "rgb(185, 76, 38)"
-        ],
-        [
-          0.5,
-          "rgb(132, 161, 221)"
-        ],
-        [
-          0.75,
-          "rgb(96, 197, 183)"
-        ],
-        [
-          1,
-          "rgb(39, 145, 132)"
-        ]
-      ]
-    }
+      {
+        "x": 0.5,
+        "y": -0.1,
+        "font": {
+          "size": 12,
+          "color": "rgb(150,150,150)",
+          "family": "Arial"
+        },
+        "text": "<b>Source:</b> Shatterproof, Opioid Settlement Allocation by State (January 2022)</br>",
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center",
+        "yanchor": "bottom",
+        "showarrow": false
+      }
+    ]
   },
   "frames": []
 }

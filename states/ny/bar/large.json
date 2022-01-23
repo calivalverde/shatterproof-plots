@@ -1,75 +1,95 @@
 {
   "data": [
     {
-      "hole": 0.4,
-      "name": "",
-      "type": "pie",
-      "title": {
-        "font": {
-          "size": 25,
-          "family": "Arial"
-        }
-      },
-      "domain": {
-        "x": [
-          0,
-          1
-        ],
-        "y": [
-          0,
-          1
-        ]
-      },
+      "name": "All Opioids",
+      "type": "bar",
+      "xsrc": "hartatsr4:346:ff3780",
+      "x": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "hartatsr4:346:3d41af",
+      "y": [
+        10.8,
+        15.1,
+        16.1,
+        15.1,
+        14.9
+      ],
       "marker": {
-        "colorssrc": "hartatsr4:304:b9a7db",
-        "colors": [
-          "rgb(242,103,34)",
-          "rgb(188,227,222)",
-          "rgb(92,93,95)",
-          "rgb(96,197,183)",
-          "rgb(132,161,221)",
-          "rgb(242,103,34)",
-          "rgb(188,227,222)",
-          "rgb(92,93,95)",
-          "rgb(96,197,183)",
-          "rgb(132,161,221)"
-        ]
+        "color": "rgb(39,145,132)"
       },
-      "textfont": {
-        "size": 25
+      "offsetgroup": "0"
+    },
+    {
+      "name": "Prescription (Rx) Opioids",
+      "type": "bar",
+      "xsrc": "hartatsr4:346:c7ad20",
+      "x": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "ysrc": "hartatsr4:346:24c72e",
+      "y": [
+        4.5,
+        5.6,
+        5.3,
+        5.1,
+        4.9
+      ],
+      "marker": {
+        "color": "rgb(188,227,222)"
       },
-      "textinfo": "percent",
-      "labelssrc": "hartatsr4:304:c0a4b7",
-      "labels": [
-        "Purdue Pharma",
-        "Johnson & Johnson",
-        "Endo",
-        "McKesson/Amerisource Bergen/Cardinal Health",
-        "CVS/Walgreens/Rite Aid/Walmart"
+      "offsetgroup": "1"
+    },
+    {
+      "name": "Synthetic Opioids",
+      "type": "bar",
+      "xsrc": "hartatsr4:346:d6a4b4",
+      "x": [
+        "2015",
+        "2016",
+        "2017",
+        "2018",
+        "2019"
       ],
-      "valuessrc": "hartatsr4:304:288548",
-      "values": [
-        200000000,
-        230000000,
-        50000000,
-        1100000000,
-        26000000
+      "ysrc": "hartatsr4:346:22dc77",
+      "y": [
+        3.4,
+        8.4,
+        11.4,
+        11.4,
+        12.1
       ],
-      "showlegend": true,
-      "legendgroup": "",
-      "hovertemplate": "%{label}: <br>Settlement amount: $%{value} </br>"
+      "marker": {
+        "color": "rgb(185,76,38)"
+      },
+      "basesrc": "hartatsr4:346:63dcfa",
+      "base": [
+        4.5,
+        5.6,
+        5.3,
+        5.1,
+        4.9
+      ],
+      "offsetgroup": "1"
     }
   ],
   "layout": {
-    "width": 1200,
-    "height": 800,
-    "legend": {
-      "tracegroupgap": 0
+    "width": 1024,
+    "yaxis": {
+      "title": {
+        "text": "Overdose Death Rates per 100,000 persons"
+      }
     },
-    "margin": {
-      "t": 60
-    },
-    "autosize": false,
+    "height": 750,
+    "dragmode": false,
     "template": {
       "data": {
         "bar": [
@@ -77,7 +97,7 @@
             "type": "bar",
             "marker": {
               "line": {
-                "color": "#E5ECF6",
+                "color": "white",
                 "width": 0.5
               },
               "pattern": {
@@ -125,17 +145,17 @@
           {
             "type": "carpet",
             "aaxis": {
-              "gridcolor": "white",
-              "linecolor": "white",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
               "endlinecolor": "#2a3f5f",
-              "minorgridcolor": "white",
+              "minorgridcolor": "#C8D4E3",
               "startlinecolor": "#2a3f5f"
             },
             "baxis": {
-              "gridcolor": "white",
-              "linecolor": "white",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
               "endlinecolor": "#2a3f5f",
-              "minorgridcolor": "white",
+              "minorgridcolor": "#C8D4E3",
               "startlinecolor": "#2a3f5f"
             }
           }
@@ -318,7 +338,7 @@
             "type": "barpolar",
             "marker": {
               "line": {
-                "color": "#E5ECF6",
+                "color": "white",
                 "width": 0.5
               },
               "pattern": {
@@ -623,53 +643,53 @@
           "bgcolor": "white",
           "showland": true,
           "lakecolor": "white",
-          "landcolor": "#E5ECF6",
+          "landcolor": "white",
           "showlakes": true,
-          "subunitcolor": "white"
+          "subunitcolor": "#C8D4E3"
         },
         "font": {
           "color": "#2a3f5f"
         },
         "polar": {
-          "bgcolor": "#E5ECF6",
+          "bgcolor": "white",
           "radialaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
           },
           "angularaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8"
           }
         },
         "scene": {
           "xaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           },
           "yaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           },
           "zaxis": {
             "ticks": "",
-            "gridcolor": "white",
+            "gridcolor": "#DFE8F3",
             "gridwidth": 2,
-            "linecolor": "white",
-            "zerolinecolor": "white",
+            "linecolor": "#EBF0F8",
+            "zerolinecolor": "#EBF0F8",
             "showbackground": true,
-            "backgroundcolor": "#E5ECF6"
+            "backgroundcolor": "white"
           }
         },
         "title": {
@@ -680,10 +700,10 @@
           "title": {
             "standoff": 15
           },
-          "gridcolor": "white",
-          "linecolor": "white",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
           "automargin": true,
-          "zerolinecolor": "white",
+          "zerolinecolor": "#EBF0F8",
           "zerolinewidth": 2
         },
         "yaxis": {
@@ -691,10 +711,10 @@
           "title": {
             "standoff": 15
           },
-          "gridcolor": "white",
-          "linecolor": "white",
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
           "automargin": true,
-          "zerolinecolor": "white",
+          "zerolinecolor": "#EBF0F8",
           "zerolinewidth": 2
         },
         "mapbox": {
@@ -703,20 +723,20 @@
         "ternary": {
           "aaxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
           "baxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
           "caxis": {
             "ticks": "",
-            "gridcolor": "white",
-            "linecolor": "white"
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6"
           },
-          "bgcolor": "#E5ECF6"
+          "bgcolor": "white"
         },
         "colorway": [
           "#636efa",
@@ -872,7 +892,7 @@
         "hoverlabel": {
           "align": "left"
         },
-        "plot_bgcolor": "#E5ECF6",
+        "plot_bgcolor": "white",
         "paper_bgcolor": "white",
         "shapedefaults": {
           "line": {
@@ -886,35 +906,7 @@
           "arrowwidth": 1
         }
       }
-    },
-    "annotations": [
-      {
-        "x": 0.5,
-        "y": 0.5,
-        "font": {
-          "size": 30,
-          "color": "black",
-          "family": "Arial"
-        },
-        "text": "$ 1.84 billion",
-        "showarrow": false
-      },
-      {
-        "x": 0.5,
-        "y": -0.1,
-        "font": {
-          "size": 12,
-          "color": "rgb(150,150,150)",
-          "family": "Arial"
-        },
-        "text": "<b>Source:</b> Shatterproof, Opioid Settlement Allocation by State (January 2022)</br>",
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center",
-        "yanchor": "bottom",
-        "showarrow": false
-      }
-    ]
+    }
   },
   "frames": []
 }

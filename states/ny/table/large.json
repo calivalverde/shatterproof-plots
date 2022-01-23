@@ -4,7 +4,7 @@
       "type": "table",
       "cells": {
         "fill": {
-          "colorsrc": "hartatsr4:302:bffe54",
+          "colorsrc": "hartatsr4:334:12762c",
           "color": [
             "whitesmoke",
             "white"
@@ -17,12 +17,12 @@
           "color": "lightgray"
         },
         "height": 40,
-        "alignsrc": "hartatsr4:302:2d7cbd",
+        "alignsrc": "hartatsr4:334:9414e8",
         "align": [
           "left",
           "left"
         ],
-        "valuessrc": "hartatsr4:302:5fbd8f",
+        "valuessrc": "hartatsr4:334:d42459",
         "values": [
           [
             "1. <b>Has the jurisdiction established a dedicated fund for dollars received as a result of the opioid litigation? (If “no,” skips to Indicator 6)</b>",
@@ -54,12 +54,12 @@
           "color": "lightgray"
         },
         "height": 40,
-        "alignsrc": "hartatsr4:302:12bf8e",
+        "alignsrc": "hartatsr4:334:4aaee9",
         "align": [
           "left",
           "left"
         ],
-        "valuessrc": "hartatsr4:302:1b76ea",
+        "valuessrc": "hartatsr4:334:e0a3f3",
         "values": [
           [
             "<b>Principle 1 State Fund Indicators</b>"
@@ -69,12 +69,12 @@
           ]
         ]
       },
-      "columnordersrc": "hartatsr4:302:aef042",
+      "columnordersrc": "hartatsr4:334:855f3c",
       "columnorder": [
         1,
         2
       ],
-      "columnwidthsrc": "hartatsr4:302:4d6bd4",
+      "columnwidthsrc": "hartatsr4:334:6f192c",
       "columnwidth": [
         80,
         120
@@ -82,8 +82,8 @@
     }
   ],
   "layout": {
-    "width": 1250,
-    "height": 500,
+    "width": 1024,
+    "height": 550,
     "margin": {
       "b": 5,
       "l": 10,
