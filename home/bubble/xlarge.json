@@ -4,7 +4,7 @@
       "mode": "markers",
       "name": "",
       "type": "scatter",
-      "xsrc": "hartatsr4:330:6bfd08",
+      "xsrc": "hartatsr4:354:ea6bd3",
       "x": [
         16.3,
         17.8,
@@ -58,7 +58,7 @@
         21.1,
         14.1
       ],
-      "ysrc": "hartatsr4:330:d318a3",
+      "ysrc": "hartatsr4:354:1272e6",
       "y": [
         38.59,
         1305.8,
@@ -117,7 +117,7 @@
       "marker": {
         "symbol": "circle",
         "sizeref": 340.6684375,
-        "sizesrc": "hartatsr4:330:b0b1fc",
+        "sizesrc": "hartatsr4:354:4c64b4",
         "size": [
           233209,
           46944,
@@ -171,7 +171,7 @@
           303487,
           35774
         ],
-        "colorsrc": "hartatsr4:330:a1ea33",
+        "colorsrc": "hartatsr4:354:55151d",
         "color": [
           233209,
           46944,
@@ -231,7 +231,7 @@
       "showlegend": false,
       "legendgroup": "",
       "orientation": "v",
-      "hovertextsrc": "hartatsr4:330:6ef3b5",
+      "hovertextsrc": "hartatsr4:354:98cb80",
       "hovertext": [
         "Alabama",
         "Alaska",
@@ -285,7 +285,7 @@
         "Wisconsin",
         "Wyoming"
       ],
-      "customdatasrc": "hartatsr4:330:b9cae0",
+      "customdatasrc": "hartatsr4:354:5a91ee",
       "customdata": [
         [
           233209
@@ -445,7 +445,7 @@
     }
   ],
   "layout": {
-    "width": 768,
+    "width": 1500,
     "xaxis": {
       "type": "log",
       "title": {
@@ -467,7 +467,7 @@
         1
       ]
     },
-    "height": 500,
+    "height": 800,
     "legend": {
       "itemsizing": "constant",
       "tracegroupgap": 0
@@ -475,7 +475,7 @@
     "margin": {
       "b": 5,
       "l": 50,
-      "r": 350,
+      "r": 150,
       "t": 5
     },
     "autosize": false,
